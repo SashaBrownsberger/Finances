@@ -131,7 +131,7 @@ class Finances:
         [month.sumDifferences() for month in self.monthly_finances]
 
 if __name__ == "__main__":
-    # python FinancesClass.py [November2022,December2022,January2023,February2023,March2023,April2023,May2023,June2023,July2023,August2023,September2023,October2023,Novermber2023,December2023,January2024]
+    # python FinancesClass.py [November2022,December2022,January2023,February2023,March2023,April2023,May2023,June2023,July2023,August2023,September2023,October2023,November2023,December2023,January2024]
     args = sys.argv[1:]
     months = args[0]
     months = can.recursiveStrToListOfLists(months)
