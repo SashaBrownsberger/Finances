@@ -21,16 +21,16 @@ class FinanceStream:
             print ('We have less than three balance entries, and so we cannot interpolate spending over time')
             return 0
         balance_changes = [balances[i] - balances[i-1] for i in range(1, len(balances) ) ]
-        adjustments_in_windows = [sum([adjustments[j] for j in range(len(adjustments)) if adjustment_delta_days[j] >= balance_delta_days[i-1] and adjustment_delta_days[j] < balance_delta_days[i] ])
+        adjustments_in_windows = [sum([adjustments[j] for j in range(len(adjustments)) if adjustment_delta_days[j] > balance_delta_days[i-1] and adjustment_delta_days[j] <= balance_delta_days[i] ])
                                         for i in range(1, len(balances) ) ]
         spending_in_windows = [balance_changes[i] - adjustments_in_windows[i] for i in range(len(balance_changes))]
         spending_rates = [spending_in_windows[i] / window_widths[i] * 30 for i in range(len(spending_in_windows))]
-        plt.scatter(window_centers, spending_rates , c = 'g')
-        plt.xlabel(r'$\Delta$ days')
-        plt.ylabel('Spending rate ($ / 30 days)')
-        plt.show()
+        #plt.scatter(window_centers, spending_rates , c = 'g')
+        #plt.xlabel(r'$\Delta$ days')
+        #plt.ylabel('Spending rate ($ / 30 days)')
+        #plt.show()
         spending_interpolator = scipy.interpolate.interp1d(window_centers, spending_rates, fill_value = (0,0), bounds_error = False)
-        return spending_interpolator
+        return [[window_centers, spending_rates], spending_interpolator]
 
     def getBalanceInterpolator(self):
         data_stream = self.data_stream
@@ -120,7 +120,7 @@ class FinanceStream:
 
 
     def __init__(self, stream_name, data_dir,
-                file_suffix = '.txt', delimiter = ', ', stream_file_header = ['Date (YYYYMMDD), Value($), Balance (0) or Transaction(1)'], date_format_string = '%Y%m%d', start_date_str = '20230101'):
+                update_on_start = 1, file_suffix = '.txt', delimiter = ', ', stream_file_header = ['Date (YYYYMMDD), Value($), Balance (0) or Transaction(1)'], date_format_string = '%Y%m%d', start_date_str = '20221101'):
         self.delimiter = delimiter
         self.file_header = stream_file_header
         self.file_path = data_dir + stream_name + file_suffix
@@ -129,8 +129,11 @@ class FinanceStream:
         self.start_date_str = start_date_str
         self.start_date = datetime.datetime.strptime(str(start_date_str), self.date_format_string)
         self.data_stream = self.loadStreamFile(delimiter = delimiter )
-        updated = self.updateDataStream()
-        if updated:
+        if update_on_start:
+            update_done = self.updateDataStream()
+        else:
+            update_done = 0
+        if update_done:
             self.saveStreamFile(delimiter = delimiter )
         self.balance_interpolator = self.getBalanceInterpolator( )
         self.spending_interpolator = self.getSpendingInterpolator( )

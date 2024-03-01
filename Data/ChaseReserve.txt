@@ -1,0 +1,1 @@
+Date (YYYYMMDD), Value($), Balance (0) or Transaction(1)
