@@ -9,7 +9,8 @@ def getFinancialStreamIDsFromShorthand(shorthand):
                                 'americanexpresscreditcard_masha', 'americanexpresscc_masha', 'amexcredictcard_masha', 'amexcard_masha','amexcc_masha', 'amex_masha',
                                 'americanexpresscreditcard_m', 'americanexpresscc_m', 'amexcredictcard_m', 'amexcard_m','amexcc_m', 'amex_m']
     chase_reserve_cc_shorthands = ['chasereservecreditcard', 'chasereservecc', 'crcredictcard', 'crcc','chasecreditcard', 'chasecc', 'ccredictcard', 'ccc']
-    capital_one_checking_shorthands = ['capitalonechecking', 'capitalonech', 'c1checking', 'c1ch','capitalonesaving', 'capitalones', 'c1saving', 'c1s']
+    capital_one_checking_shorthands = ['capitalonechecking', 'capitalonech', 'c1checking', 'c1ch','c1check',]
+    capital_one_saving_shorthands = ['capitalonesaving', 'capitalones', 'c1saving', 'c1s', 'c1save']
 
     print (shorthand.lower())
     if shorthand.lower() in capital_one_cc_shorthands:
@@ -22,3 +23,5 @@ def getFinancialStreamIDsFromShorthand(shorthand):
         return 'ChaseReserve'
     if shorthand.lower() in capital_one_checking_shorthands:
         return 'CapitalOneChecking'
+    if shorthand.lower() in capital_one_saving_shorthands:
+        return 'CapitalOneSaving'

@@ -1007,7 +1007,7 @@ def plotBarGraphStack(xs, list_of_stacks, list_of_colors, ax = None, figsize = (
     n_stacks = len(list_of_stacks)
     for j in range(n_stacks):
         x = xs[j]
-        bars = [] 
+        bars = []
         stack = list_of_stacks[j]
         if len(list_of_colors) > 1:
             colors = list_of_colors[j]
@@ -1704,8 +1704,7 @@ def saveListsToColumns(lists_to_save, save_file, save_dir, sep = ' ', append = F
     """
     lines = (np.transpose(np.array(lists_to_save))).tolist()
     if not(type_casts == None):
-        lines = [[type_casts[i](line[i]) for i in range(len(type_casts))] for line in lines]
-
+        lines = [[type_casts[i](elem) for elem in lines[i]] for i in range(len(type_casts))]
     return saveListToFile(lines, save_file, save_dir = save_dir, sep = sep, append = append, header = header)
 
 

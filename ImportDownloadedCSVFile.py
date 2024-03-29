@@ -68,7 +68,8 @@ def importCapitalOneCreditCardCSVFile(csv_file, description_to_category_dir, lin
     descriptions = [line[description_col] for line in data]
     categories = [line[cat_col] for line in data]
     amount_col = [float('0' + line[in_amount_col]) - float('0' + line[out_amount_col]) for line in data]
-    data_to_save = [dates, descriptions, categories, amount_col]
+    transaction_flag_col = [1 for i in range(len(amount_col))]
+    data_to_save = [dates, descriptions, categories, amount_col, transaction_flag_col]
     print ('Done parsing data.')
 
     return data_to_save
@@ -82,9 +83,10 @@ def importAmExCreditCardCSVFile(csv_file, description_to_category_dir, lines_to_
     descriptions = [line[description_col] for line in data]
     categories = ['' for line in data]
     #We want to define negative as spending.  AmEx Does the opposite by default
-    # so we add a - sign here. 
+    # so we add a - sign here.
     amount_col = [-float(line[amount_col]) for line in data]
-    data_to_save = [dates, descriptions, categories, amount_col]
+    transaction_flag_col = [1 for i in range(len(amount_col))]
+    data_to_save = [dates, descriptions, categories, amount_col, transaction_flag_col]
     print ('Done parsing data.')
     return data_to_save
 
@@ -97,13 +99,32 @@ def importChaseCreditCardCSVFile(csv_file, description_to_category_dir, lines_to
     descriptions = [line[description_col] for line in data]
     categories = [line[cat_col] for line in data]
     amount_col = [float(line[amount_col]) for line in data]
-
-    data_to_save = [dates, descriptions, categories, amount_col]
+    transaction_flag_col = [1 for i in range(len(amount_col))]
+    data_to_save = [dates, descriptions, categories, amount_col, transaction_flag_col]
     print ('Done parsing data.')
     return data_to_save
 
-def importCapitalOneAccount(csv_file):
-    return 0
+def importCapitalOneAccount(csv_file, description_to_category_dir, lines_to_skip = [], date_sep_delim = '/', delimiter = ',', replace_delimiter = ' ', account_num_col= 0, date_col = 1, description_col = 4, cat_col = 3, quantity_col = 2, out_amount_col = 5 ):
+    #col_indeces_to_save = identifyColumnsToSave(given_col_categories, cols_to_save)
+    #Lines with more elements should be checked for interfering commas
+    data = parseRawData(csv_file, [account_num_col, date_col, description_col, cat_col, quantity_col, out_amount_col], delimiter, replace_delimiter, lines_to_skip = lines_to_skip)
+    print ('data = ' + str(data))
+    dates = [line[date_col].split(date_sep_delim) for line in data]
+    dates = [int('20' + date[2] + date[0] + date[1]) for date in dates]
+    descriptions = [line[description_col] for line in data]
+    categories = [line[cat_col] for line in data]
+    quantities = [float(line[quantity_col]) for line in data]
+    balances = [float(line[out_amount_col]) for line in data]
+    #Now add add a separate line, once for the transaction and once for the balance
+    dates = can.flattenListOfLists([[dates[i], dates[i]] for i in range(len(dates))])
+    descriptions = can.flattenListOfLists([[descriptions[i], descriptions[i]] for i in range(len(descriptions))])
+    categories = can.flattenListOfLists([[categories[i], categories[i]] for i in range(len(categories))])
+    transaction_flag_col = can.flattenListOfLists([[1, 0] for i in range(len(quantities))])
+    quantities = can.flattenListOfLists([[quantities[i], balances[i]] for i in range(len(quantities))])
+    data_to_save = [dates, descriptions, categories, quantities, transaction_flag_col]
+    print ('Done parsing data.')
+
+    return data_to_save
 
 def readInDescriptionToCategoryDir():
     return 0
@@ -150,7 +171,7 @@ def addFileToStreamHistory(csv_file, source, raw_source_suffix = '_RAW.csv', com
     print ('new_raw_lines = ')
     print (new_raw_lines)
     data = importRawCSVFile(data_dir + csv_file, source, lines_to_skip = already_located_indeces)
-    data = data + [[1 for row in range(len(data[0]))]]
+    #data = data + [[1 for row in range(len(data[0]))]]
     previous_data = can.readInColumnsToList(compiled_file, n_ignore = 0, delimiter = delimiter, remove_redundant_delimiter = 0)
     header = delimiter.join([col[0] for col in previous_data])
     previous_data = [col[1:] for col in previous_data]

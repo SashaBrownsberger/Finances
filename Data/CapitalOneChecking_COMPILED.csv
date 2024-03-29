@@ -1,0 +1,1399 @@
+Date (YYYYMMDD), Description, Category, Value($), Balance (0) or Adjustment (1)
+20220324, Withdrawal from VENMO PAYMENT, Debit, -236.38, 1
+20220324, Withdrawal from VENMO PAYMENT, Debit, 429.28, 0
+20220324, Deposit from VENMO CASHOUT, Credit, 4.44, 1
+20220324, Deposit from VENMO CASHOUT, Credit, 665.66, 0
+20220328, Withdrawal from VENMO PAYMENT, Debit, -200.0, 1
+20220328, Withdrawal from VENMO PAYMENT, Debit, 229.28, 0
+20220329, Deposit from HARVARD UNIVERSI DIR DEP, Credit, 3770.98, 1
+20220329, Deposit from HARVARD UNIVERSI DIR DEP, Credit, 4005.06, 0
+20220329, Deposit from eBay PAYOUT, Credit, 4.8, 1
+20220329, Deposit from eBay PAYOUT, Credit, 234.08, 0
+20220330, Deposit from GUSTO PAYROLL CON 632069, Credit, 70.0, 1
+20220330, Deposit from GUSTO PAYROLL CON 632069, Credit, 4077.77, 0
+20220330, Deposit from eBay PAYOUT, Credit, 2.71, 1
+20220330, Deposit from eBay PAYOUT, Credit, 4007.77, 0
+20220331, Monthly Interest Paid, Credit, 0.1, 1
+20220331, Monthly Interest Paid, Credit, 4069.87, 0
+20220331, Withdrawal from VENMO PAYMENT, Debit, -8.0, 1
+20220331, Withdrawal from VENMO PAYMENT, Debit, 4069.77, 0
+20220401, Withdrawal from CAPITAL ONE CRCARDPMT, Debit, -1831.3, 1
+20220401, Withdrawal from CAPITAL ONE CRCARDPMT, Debit, 2238.57, 0
+20220404, Withdrawal from VENMO PAYMENT, Debit, -1000.0, 1
+20220404, Withdrawal from VENMO PAYMENT, Debit, 1288.6, 0
+20220404, Withdrawal from VANGUARD BUY INVESTMENT, Debit, -200.71, 1
+20220404, Withdrawal from VANGUARD BUY INVESTMENT, Debit, 2288.6, 0
+20220404, Deposit from VENMO CASHOUT, Credit, 250.74, 1
+20220404, Deposit from VENMO CASHOUT, Credit, 2489.31, 0
+20220405, Withdrawal from 31 LINDEN PLACE ACH, Debit, -825.0, 1
+20220405, Withdrawal from 31 LINDEN PLACE ACH, Debit, 915.83, 0
+20220405, Deposit from HARVARD UNIVERSI DIR DEP, Credit, 815.0, 1
+20220405, Deposit from HARVARD UNIVERSI DIR DEP, Credit, 1740.83, 0
+20220405, Withdrawal from EVERSOURCE WEB_PAY, Debit, -111.8, 1
+20220405, Withdrawal from EVERSOURCE WEB_PAY, Debit, 925.83, 0
+20220405, Withdrawal from EVERSOURCE WEB_PAY, Debit, -250.97, 1
+20220405, Withdrawal from EVERSOURCE WEB_PAY, Debit, 1037.63, 0
+20220406, Withdrawal from USAA P&C AUTOPAY, Debit, -91.25, 1
+20220406, Withdrawal from USAA P&C AUTOPAY, Debit, 824.58, 0
+20220407, Deposit from VENMO CASHOUT, Credit, 156.37, 1
+20220407, Deposit from VENMO CASHOUT, Credit, 980.95, 0
+20220408, Deposit from eBay PAYOUT, Credit, 7.93, 1
+20220408, Deposit from eBay PAYOUT, Credit, 988.88, 0
+20220411, Deposit from eBay PAYOUT, Credit, 7.15, 1
+20220411, Deposit from eBay PAYOUT, Credit, 980.54, 0
+20220411, Digital Card Purchase - NETFLIX COM NETFLIX COM CA, Debit, -15.49, 1
+20220411, Digital Card Purchase - NETFLIX COM NETFLIX COM CA, Debit, 973.39, 0
+20220412, Withdrawal from CAPITAL ONE MOBILE PMT, Debit, -200.0, 1
+20220412, Withdrawal from CAPITAL ONE MOBILE PMT, Debit, 796.7, 0
+20220412, Deposit from eBay PAYOUT, Credit, 16.16, 1
+20220412, Deposit from eBay PAYOUT, Credit, 996.7, 0
+20220413, Withdrawal from VENMO PAYMENT, Debit, -100.0, 1
+20220413, Withdrawal from VENMO PAYMENT, Debit, 284.38, 0
+20220413, Withdrawal from VENMO PAYMENT, Debit, -100.0, 1
+20220413, Withdrawal from VENMO PAYMENT, Debit, 384.38, 0
+20220413, Withdrawal from CAPITAL ONE MOBILE PMT, Debit, -300.0, 1
+20220413, Withdrawal from CAPITAL ONE MOBILE PMT, Debit, 484.38, 0
+20220413, Withdrawal from VENMO PAYMENT, Debit, -50.0, 1
+20220413, Withdrawal from VENMO PAYMENT, Debit, 784.38, 0
+20220413, Deposit from PRESIDENT AND FE DIRECT-PAY, Credit, 37.68, 1
+20220413, Deposit from PRESIDENT AND FE DIRECT-PAY, Credit, 834.38, 0
+20220414, Deposit from HARVARD UNIVERSI DIR DEP, Credit, 154.85, 1
+20220414, Deposit from HARVARD UNIVERSI DIR DEP, Credit, 439.23, 0
+20220415, Deposit from VENMO CASHOUT, Credit, 40.0, 1
+20220415, Deposit from VENMO CASHOUT, Credit, 1429.23, 0
+20220415, Deposit from ROBINHOOD Funds, Credit, 950.0, 1
+20220415, Deposit from ROBINHOOD Funds, Credit, 1389.23, 0
+20220418, Withdrawal from VENMO PAYMENT, Debit, -16.53, 1
+20220418, Withdrawal from VENMO PAYMENT, Debit, 1469.7, 0
+20220418, Deposit from VENMO CASHOUT, Credit, 57.0, 1
+20220418, Deposit from VENMO CASHOUT, Credit, 1486.23, 0
+20220420, Withdrawal from CAPITAL ONE ONLINE PMT, Debit, -500.0, 1
+20220420, Withdrawal from CAPITAL ONE ONLINE PMT, Debit, 469.7, 0
+20220420, Withdrawal from CAPITAL ONE MOBILE PMT, Debit, -500.0, 1
+20220420, Withdrawal from CAPITAL ONE MOBILE PMT, Debit, 969.7, 0
+20220421, Withdrawal from VANGUARD BUY INVESTMENT, Debit, -200.71, 1
+20220421, Withdrawal from VANGUARD BUY INVESTMENT, Debit, 268.99, 0
+20220425, Withdrawal from CAPITAL ONE ONLINE PMT, Debit, -100.0, 1
+20220425, Withdrawal from CAPITAL ONE ONLINE PMT, Debit, 411.21, 0
+20220425, Deposit from VENMO CASHOUT, Credit, 128.61, 1
+20220425, Deposit from VENMO CASHOUT, Credit, 511.21, 0
+20220425, Deposit from VENMO CASHOUT, Credit, 113.61, 1
+20220425, Deposit from VENMO CASHOUT, Credit, 382.6, 0
+20220427, Deposit from HARVARD UNIVERSI DIR DEP, Credit, 3770.98, 1
+20220427, Deposit from HARVARD UNIVERSI DIR DEP, Credit, 4182.19, 0
+20220428, Withdrawal from CAPITAL ONE ONLINE PMT, Debit, -1000.0, 1
+20220428, Withdrawal from CAPITAL ONE ONLINE PMT, Debit, 3182.19, 0
+20220429, Deposit from GUSTO PAYROLL CON 611569, Credit, 280.0, 1
+20220429, Deposit from GUSTO PAYROLL CON 611569, Credit, 2962.19, 0
+20220429, Withdrawal from CAPITAL ONE ONLINE PMT, Debit, -500.0, 1
+20220429, Withdrawal from CAPITAL ONE ONLINE PMT, Debit, 2682.19, 0
+20220430, Monthly Interest Paid, Credit, 0.11, 1
+20220430, Monthly Interest Paid, Credit, 2962.3, 0
+20220502, Withdrawal from VANGUARD BUY INVESTMENT, Debit, -200.71, 1
+20220502, Withdrawal from VANGUARD BUY INVESTMENT, Debit, 2445.86, 0
+20220502, Withdrawal from EVERSOURCE WEB_PAY, Debit, -219.45, 1
+20220502, Withdrawal from EVERSOURCE WEB_PAY, Debit, 2646.57, 0
+20220502, Withdrawal from EVERSOURCE WEB_PAY, Debit, -96.28, 1
+20220502, Withdrawal from EVERSOURCE WEB_PAY, Debit, 2866.02, 0
+20220503, Deposit from VENMO CASHOUT, Credit, 65.0, 1
+20220503, Deposit from VENMO CASHOUT, Credit, 2516.29, 0
+20220503, Deposit from eBay PAYOUT, Credit, 5.43, 1
+20220503, Deposit from eBay PAYOUT, Credit, 2451.29, 0
+20220504, Deposit from eBay PAYOUT, Credit, 13.29, 1
+20220504, Deposit from eBay PAYOUT, Credit, 2529.58, 0
+20220505, Withdrawal from 31 LINDEN PLACE ACH, Debit, -825.0, 1
+20220505, Withdrawal from 31 LINDEN PLACE ACH, Debit, 744.58, 0
+20220505, Withdrawal from VENMO PAYMENT, Debit, -460.0, 1
+20220505, Withdrawal from VENMO PAYMENT, Debit, 1569.58, 0
+20220505, Withdrawal from CAPITAL ONE ONLINE PMT, Debit, -500.0, 1
+20220505, Withdrawal from CAPITAL ONE ONLINE PMT, Debit, 2029.58, 0
+20220506, Withdrawal from USAA P&C AUTOPAY, Debit, -91.25, 1
+20220506, Withdrawal from USAA P&C AUTOPAY, Debit, 653.33, 0
+20220511, Withdrawal from CAPITAL ONE MOBILE PMT, Debit, -400.0, 1
+20220511, Withdrawal from CAPITAL ONE MOBILE PMT, Debit, 253.33, 0
+20220516, Withdrawal from CAPITAL ONE ONLINE PMT, Debit, -150.0, 1
+20220516, Withdrawal from CAPITAL ONE ONLINE PMT, Debit, 103.33, 0
+20220517, Deposit from VENMO CASHOUT, Credit, 113.61, 1
+20220517, Deposit from VENMO CASHOUT, Credit, 218.8, 0
+20220517, Deposit from eBay PAYOUT, Credit, 1.86, 1
+20220517, Deposit from eBay PAYOUT, Credit, 105.19, 0
+20220520, Deposit from PRESIDENT AND FE DIRECT-PAY, Credit, 155.3, 1
+20220520, Deposit from PRESIDENT AND FE DIRECT-PAY, Credit, 274.1, 0
+20220520, Withdrawal from CAPITAL ONE ONLINE PMT, Debit, -100.0, 1
+20220520, Withdrawal from CAPITAL ONE ONLINE PMT, Debit, 118.8, 0
+20220521, Withdrawal from CAPITAL ONE ONLINE PMT, Debit, -150.0, 1
+20220521, Withdrawal from CAPITAL ONE ONLINE PMT, Debit, 124.1, 0
+20220523, Withdrawal from CAPITAL ONE ONLINE PMT, Debit, -75.0, 1
+20220523, Withdrawal from CAPITAL ONE ONLINE PMT, Debit, 49.1, 0
+20220526, Deposit from VENMO CASHOUT, Credit, 93.61, 1
+20220526, Deposit from VENMO CASHOUT, Credit, 329.93, 0
+20220526, Deposit from VENMO CASHOUT, Credit, 187.22, 1
+20220526, Deposit from VENMO CASHOUT, Credit, 236.32, 0
+20220527, Withdrawal from CAPITAL ONE MOBILE PMT, Debit, -200.0, 1
+20220527, Withdrawal from CAPITAL ONE MOBILE PMT, Debit, 129.93, 0
+20220529, Deposit from HARVARD UNIVERSI DIR DEP, Credit, 3770.98, 1
+20220529, Deposit from HARVARD UNIVERSI DIR DEP, Credit, 3900.91, 0
+20220531, Monthly Interest Paid, Credit, 0.07, 1
+20220531, Monthly Interest Paid, Credit, 1525.98, 0
+20220531, Withdrawal from CAPITAL ONE MOBILE PMT, Debit, -3000.0, 1
+20220531, Withdrawal from CAPITAL ONE MOBILE PMT, Debit, 1525.91, 0
+20220531, Withdrawal from CAPITAL ONE MOBILE PMT, Debit, -100.0, 1
+20220531, Withdrawal from CAPITAL ONE MOBILE PMT, Debit, 4525.91, 0
+20220531, Deposit from VENMO CASHOUT, Credit, 825.0, 1
+20220531, Deposit from VENMO CASHOUT, Credit, 4625.91, 0
+20220531, Withdrawal from CAPITAL ONE ONLINE PMT, Debit, -100.0, 1
+20220531, Withdrawal from CAPITAL ONE ONLINE PMT, Debit, 3800.91, 0
+20220601, Withdrawal from 31 LINDEN PLACE ACH, Debit, -825.0, 1
+20220601, Withdrawal from 31 LINDEN PLACE ACH, Debit, 465.26, 0
+20220601, Withdrawal from EVERSOURCE WEB_PAY, Debit, -165.26, 1
+20220601, Withdrawal from EVERSOURCE WEB_PAY, Debit, 1290.26, 0
+20220601, Withdrawal from EVERSOURCE WEB_PAY, Debit, -70.46, 1
+20220601, Withdrawal from EVERSOURCE WEB_PAY, Debit, 1455.52, 0
+20220602, Deposit from GUSTO PAYROLL CON 787809, Credit, 290.5, 1
+20220602, Deposit from GUSTO PAYROLL CON 787809, Credit, 755.76, 0
+20220603, Deposit from VENMO CASHOUT, Credit, 45.0, 1
+20220603, Deposit from VENMO CASHOUT, Credit, 800.76, 0
+20220606, Withdrawal from VENMO PAYMENT, Debit, -15.0, 1
+20220606, Withdrawal from VENMO PAYMENT, Debit, 785.76, 0
+20220607, Withdrawal from USAA P&C AUTOPAY, Debit, -91.25, 1
+20220607, Withdrawal from USAA P&C AUTOPAY, Debit, 1544.78, 0
+20220607, Deposit from VENMO CASHOUT, Credit, 825.0, 1
+20220607, Deposit from VENMO CASHOUT, Credit, 1636.03, 0
+20220607, Deposit from eBay PAYOUT, Credit, 13.5, 1
+20220607, Deposit from eBay PAYOUT, Credit, 811.03, 0
+20220607, Deposit from eBay PAYOUT, Credit, 11.77, 1
+20220607, Deposit from eBay PAYOUT, Credit, 797.53, 0
+20220608, Deposit from PRESIDENT AND FE DIRECT-PAY, Credit, 228.32, 1
+20220608, Deposit from PRESIDENT AND FE DIRECT-PAY, Credit, 773.1, 0
+20220608, Withdrawal from CAPITAL ONE ONLINE PMT, Debit, -1000.0, 1
+20220608, Withdrawal from CAPITAL ONE ONLINE PMT, Debit, 544.78, 0
+20220609, Check Deposit (Mobile), Credit, 500.0, 1
+20220609, Check Deposit (Mobile), Credit, 1273.1, 0
+20220610, Withdrawal from CAPITAL ONE MOBILE PMT, Debit, -500.0, 1
+20220610, Withdrawal from CAPITAL ONE MOBILE PMT, Debit, 773.1, 0
+20220614, Deposit from eBay PAYOUT, Credit, 21.68, 1
+20220614, Deposit from eBay PAYOUT, Credit, 797.04, 0
+20220614, Deposit from eBay PAYOUT, Credit, 2.26, 1
+20220614, Deposit from eBay PAYOUT, Credit, 775.36, 0
+20220621, Withdrawal from CAPITAL ONE ONLINE PMT, Debit, -200.0, 1
+20220621, Withdrawal from CAPITAL ONE ONLINE PMT, Debit, 597.04, 0
+20220622, Check #428 Cashed, Debit, -50.0, 1
+20220622, Check #428 Cashed, Debit, 147.04, 0
+20220622, Withdrawal from CAPITAL ONE ONLINE PMT, Debit, -400.0, 1
+20220622, Withdrawal from CAPITAL ONE ONLINE PMT, Debit, 197.04, 0
+20220623, Deposit from eBay PAYOUT, Credit, 19.3, 1
+20220623, Deposit from eBay PAYOUT, Credit, 166.34, 0
+20220627, Withdrawal from CAPITAL ONE ONLINE PMT, Debit, -100.0, 1
+20220627, Withdrawal from CAPITAL ONE ONLINE PMT, Debit, 261.32, 0
+20220627, Withdrawal from CAPITAL ONE MOBILE PMT, Debit, -50.0, 1
+20220627, Withdrawal from CAPITAL ONE MOBILE PMT, Debit, 361.32, 0
+20220627, Deposit from VENMO CASHOUT, Credit, 122.49, 1
+20220627, Deposit from VENMO CASHOUT, Credit, 411.32, 0
+20220627, Deposit from VENMO CASHOUT, Credit, 122.49, 1
+20220627, Deposit from VENMO CASHOUT, Credit, 288.83, 0
+20220628, Deposit from HARVARD UNIVERSI DIR DEP, Credit, 3760.36, 1
+20220628, Deposit from HARVARD UNIVERSI DIR DEP, Credit, 4029.64, 0
+20220628, Deposit from eBay PAYOUT, Credit, 227.96, 1
+20220628, Deposit from eBay PAYOUT, Credit, 269.28, 0
+20220628, Withdrawal from CAPITAL ONE MOBILE PMT, Debit, -220.0, 1
+20220628, Withdrawal from CAPITAL ONE MOBILE PMT, Debit, 41.32, 0
+20220629, Deposit from GUSTO PAYROLL CON 554976, Credit, 224.0, 1
+20220629, Deposit from GUSTO PAYROLL CON 554976, Credit, 2147.05, 0
+20220629, Deposit from eBay PAYOUT, Credit, 113.41, 1
+20220629, Deposit from eBay PAYOUT, Credit, 1923.05, 0
+20220629, Withdrawal from CAPITAL ONE ONLINE PMT, Debit, -2000.0, 1
+20220629, Withdrawal from CAPITAL ONE ONLINE PMT, Debit, 1809.64, 0
+20220629, Withdrawal from CAPITAL ONE MOBILE PMT, Debit, -220.0, 1
+20220629, Withdrawal from CAPITAL ONE MOBILE PMT, Debit, 3809.64, 0
+20220630, Monthly Interest Paid, Credit, 0.06, 1
+20220630, Monthly Interest Paid, Credit, 2147.11, 0
+20220703, Debit Card Purchase - HUDSONNEWS ST863 DES PLAINES  IL US, Debit, -11.92, 1
+20220703, Debit Card Purchase - HUDSONNEWS ST863 DES PLAINES  IL US, Debit, 2135.19, 0
+20220705, Deposit from GUSTO PAYROLL CON 829073, Credit, 161.0, 1
+20220705, Deposit from GUSTO PAYROLL CON 829073, Credit, 2397.54, 0
+20220705, Deposit from VENMO CASHOUT, Credit, 100.0, 1
+20220705, Deposit from VENMO CASHOUT, Credit, 2236.54, 0
+20220705, Deposit from eBay PAYOUT, Credit, 1.35, 1
+20220705, Deposit from eBay PAYOUT, Credit, 2136.54, 0
+20220706, Withdrawal from USAA P&C AUTOPAY, Debit, -91.25, 1
+20220706, Withdrawal from USAA P&C AUTOPAY, Debit, 2306.29, 0
+20220707, Deposit from VENMO CASHOUT, Credit, 122.49, 1
+20220707, Deposit from VENMO CASHOUT, Credit, 2428.78, 0
+20220708, Withdrawal from CAPITAL ONE ONLINE PMT, Debit, -1000.0, 1
+20220708, Withdrawal from CAPITAL ONE ONLINE PMT, Debit, 1428.78, 0
+20220712, Withdrawal from VENMO PAYMENT, Debit, -50.0, 1
+20220712, Withdrawal from VENMO PAYMENT, Debit, 1378.78, 0
+20220713, Deposit from VENMO CASHOUT, Credit, 203.43, 1
+20220713, Deposit from VENMO CASHOUT, Credit, 1082.21, 0
+20220713, Withdrawal from CAPITAL ONE MOBILE PMT, Debit, -500.0, 1
+20220713, Withdrawal from CAPITAL ONE MOBILE PMT, Debit, 878.78, 0
+20220714, Withdrawal from EVERSOURCE WEB_PAY, Debit, -306.66, 1
+20220714, Withdrawal from EVERSOURCE WEB_PAY, Debit, 730.98, 0
+20220714, Withdrawal from EVERSOURCE WEB_PAY, Debit, -44.57, 1
+20220714, Withdrawal from EVERSOURCE WEB_PAY, Debit, 1037.64, 0
+20220715, Deposit from VENMO CASHOUT, Credit, 69.36, 1
+20220715, Deposit from VENMO CASHOUT, Credit, 800.34, 0
+20220716, Withdrawal from CAPITAL ONE MOBILE PMT, Debit, -500.0, 1
+20220716, Withdrawal from CAPITAL ONE MOBILE PMT, Debit, 300.34, 0
+20220719, Withdrawal from CAPITAL ONE ONLINE PMT, Debit, -250.0, 1
+20220719, Withdrawal from CAPITAL ONE ONLINE PMT, Debit, 50.34, 0
+20220720, Deposit from ROBINHOOD Funds, Credit, 44.0, 1
+20220720, Deposit from ROBINHOOD Funds, Credit, 2644.34, 0
+20220720, Deposit from VANGUARD SELL INVESTMENT, Credit, 2550.0, 1
+20220720, Deposit from VANGUARD SELL INVESTMENT, Credit, 2600.34, 0
+20220721, Withdrawal from CAPITAL ONE ONLINE PMT, Debit, -2100.0, 1
+20220721, Withdrawal from CAPITAL ONE ONLINE PMT, Debit, 544.34, 0
+20220722, Deposit from AURA INC EFT, Credit, 1998.3, 1
+20220722, Deposit from AURA INC EFT, Credit, 2542.64, 0
+20220723, Withdrawal from CAPITAL ONE MOBILE PMT, Debit, -1100.0, 1
+20220723, Withdrawal from CAPITAL ONE MOBILE PMT, Debit, 442.64, 0
+20220723, Withdrawal from CAPITAL ONE MOBILE PMT, Debit, -1000.0, 1
+20220723, Withdrawal from CAPITAL ONE MOBILE PMT, Debit, 1542.64, 0
+20220725, Withdrawal from VENMO PAYMENT, Debit, -60.0, 1
+20220725, Withdrawal from VENMO PAYMENT, Debit, 382.64, 0
+20220727, Deposit from HARVARD UNIVERSI DIR DEP, Credit, 3752.54, 1
+20220727, Deposit from HARVARD UNIVERSI DIR DEP, Credit, 4170.85, 0
+20220727, Deposit from VENMO CASHOUT, Credit, 34.68, 1
+20220727, Deposit from VENMO CASHOUT, Credit, 418.31, 0
+20220727, Deposit from eBay PAYOUT, Credit, 0.99, 1
+20220727, Deposit from eBay PAYOUT, Credit, 383.63, 0
+20220729, Deposit from GUSTO PAYROLL CON 683405, Credit, 437.5, 1
+20220729, Deposit from GUSTO PAYROLL CON 683405, Credit, 4608.35, 0
+20220731, Monthly Interest Paid, Credit, 0.14, 1
+20220731, Monthly Interest Paid, Credit, 4608.49, 0
+20220808, Withdrawal from USAA P&C AUTOPAY, Debit, -68.09, 1
+20220808, Withdrawal from USAA P&C AUTOPAY, Debit, 4540.4, 0
+20220816, Withdrawal from EVERSOURCE WEB_PAY, Debit, -384.55, 1
+20220816, Withdrawal from EVERSOURCE WEB_PAY, Debit, 4121.66, 0
+20220816, Withdrawal from EVERSOURCE WEB_PAY, Debit, -34.19, 1
+20220816, Withdrawal from EVERSOURCE WEB_PAY, Debit, 4506.21, 0
+20220817, Deposit from GUSTO PAYROLL CON 586610, Credit, 192.5, 1
+20220817, Deposit from GUSTO PAYROLL CON 586610, Credit, 4314.16, 0
+20220818, Withdrawal from eBay ComEF1VMN9Q PAYMENTS, Debit, -1.5, 1
+20220818, Withdrawal from eBay ComEF1VMN9Q PAYMENTS, Debit, 4312.66, 0
+20220830, Deposit from DFAS-CLEVELAND NAVY ACT, Credit, 4869.98, 1
+20220830, Deposit from DFAS-CLEVELAND NAVY ACT, Credit, 9182.64, 0
+20220831, Monthly Interest Paid, Credit, 0.4, 1
+20220831, Monthly Interest Paid, Credit, 9183.04, 0
+20220901, Withdrawal from CAPITAL ONE CRCARDPMT, Debit, -1322.35, 1
+20220901, Withdrawal from CAPITAL ONE CRCARDPMT, Debit, 7860.69, 0
+20220907, Withdrawal from USAA P&C AUTOPAY, Debit, -68.09, 1
+20220907, Withdrawal from USAA P&C AUTOPAY, Debit, 7792.6, 0
+20220912, Withdrawal from VENMO PAYMENT, Debit, -158.0, 1
+20220912, Withdrawal from VENMO PAYMENT, Debit, 7464.6, 0
+20220912, Withdrawal from VENMO PAYMENT, Debit, -89.0, 1
+20220912, Withdrawal from VENMO PAYMENT, Debit, 7622.6, 0
+20220912, Withdrawal from VENMO PAYMENT, Debit, -81.0, 1
+20220912, Withdrawal from VENMO PAYMENT, Debit, 7711.6, 0
+20220913, Deposit from DFAS-CLEVELAND NAVY ACT, Credit, 1113.84, 1
+20220913, Deposit from DFAS-CLEVELAND NAVY ACT, Credit, 8578.44, 0
+20220926, Withdrawal from VENMO PAYMENT, Debit, -63.51, 1
+20220926, Withdrawal from VENMO PAYMENT, Debit, 8514.93, 0
+20220928, Deposit from DFAS-CLEVELAND NAVY ACT, Credit, 1113.33, 1
+20220928, Deposit from DFAS-CLEVELAND NAVY ACT, Credit, 9628.26, 0
+20220930, Monthly Interest Paid, Credit, 0.69, 1
+20220930, Monthly Interest Paid, Credit, 9628.95, 0
+20221003, Withdrawal from VENMO PAYMENT, Debit, -177.17, 1
+20221003, Withdrawal from VENMO PAYMENT, Debit, 9313.68, 0
+20221003, Withdrawal from CAPITAL ONE CRCARDPMT, Debit, -138.1, 1
+20221003, Withdrawal from CAPITAL ONE CRCARDPMT, Debit, 9490.85, 0
+20221006, Withdrawal from USAA P&C AUTOPAY, Debit, -68.09, 1
+20221006, Withdrawal from USAA P&C AUTOPAY, Debit, 9245.59, 0
+20221007, Withdrawal from CAPITAL ONE MOBILE PMT, Debit, -1218.01, 1
+20221007, Withdrawal from CAPITAL ONE MOBILE PMT, Debit, 8027.58, 0
+20221011, Withdrawal from VENMO PAYMENT, Debit, -153.6, 1
+20221011, Withdrawal from VENMO PAYMENT, Debit, 7648.81, 0
+20221011, Withdrawal from VENMO PAYMENT, Debit, -141.0, 1
+20221011, Withdrawal from VENMO PAYMENT, Debit, 7802.41, 0
+20221011, Withdrawal from VENMO PAYMENT, Debit, -55.0, 1
+20221011, Withdrawal from VENMO PAYMENT, Debit, 7943.41, 0
+20221011, Withdrawal from VENMO PAYMENT, Debit, -15.88, 1
+20221011, Withdrawal from VENMO PAYMENT, Debit, 7998.41, 0
+20221011, Withdrawal from VENMO PAYMENT, Debit, -7.8, 1
+20221011, Withdrawal from VENMO PAYMENT, Debit, 8014.29, 0
+20221011, Withdrawal from VENMO PAYMENT, Debit, -5.49, 1
+20221011, Withdrawal from VENMO PAYMENT, Debit, 8022.09, 0
+20221012, Deposit from DFAS-CLEVELAND NAVY ACT, Credit, 1059.58, 1
+20221012, Deposit from DFAS-CLEVELAND NAVY ACT, Credit, 8708.39, 0
+20221017, Withdrawal from VENMO PAYMENT, Debit, -124.15, 1
+20221017, Withdrawal from VENMO PAYMENT, Debit, 8569.67, 0
+20221017, Withdrawal from VENMO PAYMENT, Debit, -14.57, 1
+20221017, Withdrawal from VENMO PAYMENT, Debit, 8693.82, 0
+20221019, Withdrawal from VENMO PAYMENT, Debit, -10.0, 1
+20221019, Withdrawal from VENMO PAYMENT, Debit, 8514.17, 0
+20221019, Withdrawal from VENMO PAYMENT, Debit, -41.75, 1
+20221019, Withdrawal from VENMO PAYMENT, Debit, 8524.17, 0
+20221019, Withdrawal from VENMO PAYMENT, Debit, -3.75, 1
+20221019, Withdrawal from VENMO PAYMENT, Debit, 8565.92, 0
+20221028, Withdrawal from AAFES-ARMY ACH PYMT, Debit, -2975.0, 1
+20221028, Withdrawal from AAFES-ARMY ACH PYMT, Debit, 5539.17, 0
+20221030, Deposit from DFAS-CLEVELAND NAVY ACT, Credit, 1059.06, 1
+20221030, Deposit from DFAS-CLEVELAND NAVY ACT, Credit, 6598.23, 0
+20221031, Monthly Interest Paid, Credit, 0.7, 1
+20221031, Monthly Interest Paid, Credit, 6711.19, 0
+20221031, Withdrawal from VENMO PAYMENT, Debit, -350.0, 1
+20221031, Withdrawal from VENMO PAYMENT, Debit, 6710.49, 0
+20221031, Deposit from VENMO CASHOUT, Credit, 253.17, 1
+20221031, Deposit from VENMO CASHOUT, Credit, 7060.49, 0
+20221031, Deposit from VENMO CASHOUT, Credit, 209.09, 1
+20221031, Deposit from VENMO CASHOUT, Credit, 6807.32, 0
+20221101, Withdrawal from CAPITAL ONE CRCARDPMT, Debit, -209.43, 1
+20221101, Withdrawal from CAPITAL ONE CRCARDPMT, Debit, 6501.76, 0
+20221102, Debit Card Purchase - SQ ESSO COFFEEHOUSE A PHOENIX AZ, Debit, -4.62, 1
+20221102, Debit Card Purchase - SQ ESSO COFFEEHOUSE A PHOENIX AZ, Debit, 6497.14, 0
+20221103, Withdrawal from I.C. SYSTEM PD ON ACCT, Debit, -120.04, 1
+20221103, Withdrawal from I.C. SYSTEM PD ON ACCT, Debit, 6377.1, 0
+20221108, Withdrawal from USAA P&C AUTOPAY, Debit, -68.09, 1
+20221108, Withdrawal from USAA P&C AUTOPAY, Debit, 6309.01, 0
+20221113, Deposit from DFAS-CLEVELAND NAVY ACT, Credit, 2002.29, 1
+20221113, Deposit from DFAS-CLEVELAND NAVY ACT, Credit, 8311.3, 0
+20221114, Withdrawal from VENMO PAYMENT, Debit, -4.0, 1
+20221114, Withdrawal from VENMO PAYMENT, Debit, 8833.07, 0
+20221114, Deposit from VENMO CASHOUT, Credit, 437.87, 1
+20221114, Deposit from VENMO CASHOUT, Credit, 8837.07, 0
+20221114, Deposit from VENMO CASHOUT, Credit, 70.0, 1
+20221114, Deposit from VENMO CASHOUT, Credit, 8399.2, 0
+20221114, Deposit from VENMO CASHOUT, Credit, 17.9, 1
+20221114, Deposit from VENMO CASHOUT, Credit, 8329.2, 0
+20221116, Deposit from COMM. OF MASS. MASTTAXRFD, Credit, 158.0, 1
+20221116, Deposit from COMM. OF MASS. MASTTAXRFD, Credit, 8991.07, 0
+20221117, Withdrawal from VANGUARD BUY INVESTMENT, Debit, -200.71, 1
+20221117, Withdrawal from VANGUARD BUY INVESTMENT, Debit, 8790.36, 0
+20221123, Withdrawal from VENMO PAYMENT, Debit, -250.0, 1
+20221123, Withdrawal from VENMO PAYMENT, Debit, 8557.52, 0
+20221123, Deposit from VENMO CASHOUT, Credit, 12.87, 1
+20221123, Deposit from VENMO CASHOUT, Credit, 8807.52, 0
+20221123, Deposit from VENMO CASHOUT, Credit, 4.29, 1
+20221123, Deposit from VENMO CASHOUT, Credit, 8794.65, 0
+20221128, Withdrawal from AMEX EPAYMENT ACH PMT, Debit, -4544.74, 1
+20221128, Withdrawal from AMEX EPAYMENT ACH PMT, Debit, 4642.78, 0
+20221128, Deposit from VENMO CASHOUT, Credit, 630.0, 1
+20221128, Deposit from VENMO CASHOUT, Credit, 9187.52, 0
+20221129, Deposit from eBay PAYOUT, Credit, 2.05, 1
+20221129, Deposit from eBay PAYOUT, Credit, 7744.77, 0
+20221129, Deposit from DFAS-CLEVELAND NAVY ACT, Credit, 3099.94, 1
+20221129, Deposit from DFAS-CLEVELAND NAVY ACT, Credit, 7742.72, 0
+20221130, Monthly Interest Paid, Credit, 0.62, 1
+20221130, Monthly Interest Paid, Credit, 7745.39, 0
+20221201, Withdrawal from CAPITAL ONE CRCARDPMT, Debit, -2471.64, 1
+20221201, Withdrawal from CAPITAL ONE CRCARDPMT, Debit, 5273.75, 0
+20221205, Withdrawal from VENMO PAYMENT, Debit, -200.0, 1
+20221205, Withdrawal from VENMO PAYMENT, Debit, 5078.04, 0
+20221205, Deposit from VENMO CASHOUT, Credit, 4.29, 1
+20221205, Deposit from VENMO CASHOUT, Credit, 5278.04, 0
+20221206, Withdrawal from USAA P&C AUTOPAY, Debit, -68.09, 1
+20221206, Withdrawal from USAA P&C AUTOPAY, Debit, 5009.95, 0
+20221213, Deposit from eBay PAYOUT, Credit, 38.8, 1
+20221213, Deposit from eBay PAYOUT, Credit, 7070.61, 0
+20221213, Deposit from DFAS-CLEVELAND NAVY ACT, Credit, 2021.86, 1
+20221213, Deposit from DFAS-CLEVELAND NAVY ACT, Credit, 7031.81, 0
+20221219, Withdrawal from VENMO PAYMENT, Debit, -1500.0, 1
+20221219, Withdrawal from VENMO PAYMENT, Debit, 6050.71, 0
+20221219, Deposit from VENMO CASHOUT, Credit, 458.57, 1
+20221219, Deposit from VENMO CASHOUT, Credit, 7550.71, 0
+20221219, Deposit from eBay PAYOUT, Credit, 21.53, 1
+20221219, Deposit from eBay PAYOUT, Credit, 7092.14, 0
+20221221, Zelle money sent to ZEQO, Debit, -2200.0, 1
+20221221, Zelle money sent to ZEQO, Debit, 3845.71, 0
+20221221, Zelle money sent to MARIA TIKHANOVSKAYA, Debit, -5.0, 1
+20221221, Zelle money sent to MARIA TIKHANOVSKAYA, Debit, 6045.71, 0
+20221222, Zelle money sent to ZEQO, Debit, -2200.0, 1
+20221222, Zelle money sent to ZEQO, Debit, 1645.71, 0
+20221223, Withdrawal to 360 Performance Savings XXXXXXX1541, Debit, -100.0, 1
+20221223, Withdrawal to 360 Performance Savings XXXXXXX1541, Debit, 1545.71, 0
+20221227, Deposit from 360 Performance Savings XXXXXXX1541, Credit, 5000.0, 1
+20221227, Deposit from 360 Performance Savings XXXXXXX1541, Credit, 6445.71, 0
+20221227, Maintain minimum balance - Withdrawal to NAVY FEDERAL CREDIT UNION checking account XXXXXX7561, Debit, -100.0, 1
+20221227, Maintain minimum balance - Withdrawal to NAVY FEDERAL CREDIT UNION checking account XXXXXX7561, Debit, 1445.71, 0
+20221228, Withdrawal to 360 Performance Savings XXXXXXX1541, Debit, -4600.0, 1
+20221228, Withdrawal to 360 Performance Savings XXXXXXX1541, Debit, 1061.7, 0
+20221228, Deposit from DFAS-CLEVELAND  IATS PAY, Credit, 194.16, 1
+20221228, Deposit from DFAS-CLEVELAND  IATS PAY, Credit, 5661.7, 0
+20221228, Withdrawal from VENMO PAYMENT, Debit, -3000.0, 1
+20221228, Withdrawal from VENMO PAYMENT, Debit, 5467.54, 0
+20221228, Deposit from DFAS-CLEVELAND NAVY ACT, Credit, 2021.83, 1
+20221228, Deposit from DFAS-CLEVELAND NAVY ACT, Credit, 8467.54, 0
+20221229, Deposit from GUSTO PAYROLL CON 154366, Credit, 178.5, 1
+20221229, Deposit from GUSTO PAYROLL CON 154366, Credit, 1240.2, 0
+20221230, Deposit from eBay PAYOUT, Credit, 13.89, 1
+20221230, Deposit from eBay PAYOUT, Credit, 1254.09, 0
+20221231, Monthly Interest Paid, Credit, 0.37, 1
+20221231, Monthly Interest Paid, Credit, 1254.46, 0
+20230103, Deposit from 360 Performance Savings XXXXXXX1541, Credit, 11000.0, 1
+20230103, Deposit from 360 Performance Savings XXXXXXX1541, Credit, 11204.2, 0
+20230103, Withdrawal from CAPITAL ONE CRCARDPMT, Debit, -575.26, 1
+20230103, Withdrawal from CAPITAL ONE CRCARDPMT, Debit, 204.2, 0
+20230103, Withdrawal from VENMO PAYMENT, Debit, -475.0, 1
+20230103, Withdrawal from VENMO PAYMENT, Debit, 779.46, 0
+20230104, Debit Card Purchase - ARCO #42283 AMPM PHOENIX  AZ US, Debit, -61.92, 1
+20230104, Debit Card Purchase - ARCO #42283 AMPM PHOENIX  AZ US, Debit, 10963.16, 0
+20230104, Withdrawal from VENMO PAYMENT, Debit, -300.0, 1
+20230104, Withdrawal from VENMO PAYMENT, Debit, 11025.08, 0
+20230104, Deposit from VENMO CASHOUT, Credit, 120.88, 1
+20230104, Deposit from VENMO CASHOUT, Credit, 11325.08, 0
+20230106, Withdrawal from USAA P&C AUTOPAY, Debit, -45.96, 1
+20230106, Withdrawal from USAA P&C AUTOPAY, Debit, 10917.2, 0
+20230113, Deposit from eBay PAYOUT, Credit, 18.07, 1
+20230113, Deposit from eBay PAYOUT, Credit, 10935.27, 0
+20230116, Deposit from 360 Performance Savings XXXXXXX1541, Credit, 100.0, 1
+20230116, Deposit from 360 Performance Savings XXXXXXX1541, Credit, 11035.27, 0
+20230117, Withdrawal from AMEX EPAYMENT ACH PMT, Debit, -10978.0, 1
+20230117, Withdrawal from AMEX EPAYMENT ACH PMT, Debit, 154.41, 0
+20230117, Deposit from VENMO CASHOUT, Credit, 97.14, 1
+20230117, Deposit from VENMO CASHOUT, Credit, 11132.41, 0
+20230124, Deposit from eBay PAYOUT, Credit, 19.53, 1
+20230124, Deposit from eBay PAYOUT, Credit, 173.94, 0
+20230125, Deposit from 360 Performance Savings XXXXXXX1541, Credit, 300.0, 1
+20230125, Deposit from 360 Performance Savings XXXXXXX1541, Credit, 473.94, 0
+20230130, Deposit from 360 Performance Savings XXXXXXX1541, Credit, 400.0, 1
+20230130, Deposit from 360 Performance Savings XXXXXXX1541, Credit, 869.74, 0
+20230130, Withdrawal from eBay ComZ4QZVVDQ PAYMENTS, Debit, -4.2, 1
+20230130, Withdrawal from eBay ComZ4QZVVDQ PAYMENTS, Debit, 469.74, 0
+20230131, Monthly Interest Paid, Credit, 0.44, 1
+20230131, Monthly Interest Paid, Credit, 484.68, 0
+20230131, Withdrawal from VENMO PAYMENT, Debit, -400.0, 1
+20230131, Withdrawal from VENMO PAYMENT, Debit, 484.24, 0
+20230131, Deposit from eBay PAYOUT, Credit, 14.5, 1
+20230131, Deposit from eBay PAYOUT, Credit, 884.24, 0
+20230201, Withdrawal from VENMO PAYMENT, Debit, -237.5, 1
+20230201, Withdrawal from VENMO PAYMENT, Debit, 247.18, 0
+20230203, Deposit from 360 Performance Savings XXXXXXX1541, Credit, 300.0, 1
+20230203, Deposit from 360 Performance Savings XXXXXXX1541, Credit, 547.18, 0
+20230206, Withdrawal from CAPITAL ONE ONLINE PMT, Debit, -937.31, 1
+20230206, Withdrawal from CAPITAL ONE ONLINE PMT, Debit, 89.6, 0
+20230206, Withdrawal from PAYPAL to SASHA BROWNSBERGER INST XFER, Debit, -18.28, 1
+20230206, Withdrawal from PAYPAL to SASHA BROWNSBERGER INST XFER, Debit, 1026.91, 0
+20230206, Withdrawal from PAYPAL to SASHA BROWNSBERGER INST XFER, Debit, -1.99, 1
+20230206, Withdrawal from PAYPAL to SASHA BROWNSBERGER INST XFER, Debit, 1045.19, 0
+20230206, Deposit from 360 Performance Savings XXXXXXX1541, Credit, 500.0, 1
+20230206, Deposit from 360 Performance Savings XXXXXXX1541, Credit, 1047.18, 0
+20230207, Withdrawal from USAA P&C AUTOPAY, Debit, -68.14, 1
+20230207, Withdrawal from USAA P&C AUTOPAY, Debit, 21.46, 0
+20230208, Deposit from eBay PAYOUT, Credit, 16.64, 1
+20230208, Deposit from eBay PAYOUT, Credit, 38.1, 0
+20230209, Deposit from eBay PAYOUT, Credit, 43.85, 1
+20230209, Deposit from eBay PAYOUT, Credit, 4081.95, 0
+20230209, Deposit from 360 Performance Savings XXXXXXX1541, Credit, 3000.0, 1
+20230209, Deposit from 360 Performance Savings XXXXXXX1541, Credit, 4038.1, 0
+20230209, Deposit from 360 Performance Savings XXXXXXX1541, Credit, 1000.0, 1
+20230209, Deposit from 360 Performance Savings XXXXXXX1541, Credit, 1038.1, 0
+20230210, Withdrawal from VENMO RETRY PYMT, Debit, -75.0, 1
+20230210, Withdrawal from VENMO RETRY PYMT, Debit, 4007.16, 0
+20230210, Deposit from eBay PAYOUT, Credit, 0.21, 1
+20230210, Deposit from eBay PAYOUT, Credit, 4082.16, 0
+20230213, Withdrawal to 360 Performance Savings XXXXXXX1541, Debit, -1000.0, 1
+20230213, Withdrawal to 360 Performance Savings XXXXXXX1541, Debit, 3007.16, 0
+20230214, Withdrawal from eBay Com5VUII5JY PAYMENTS, Debit, -2.15, 1
+20230214, Withdrawal from eBay Com5VUII5JY PAYMENTS, Debit, 129.54, 0
+20230214, Withdrawal from AMEX EPAYMENT ACH PMT, Debit, -2898.56, 1
+20230214, Withdrawal from AMEX EPAYMENT ACH PMT, Debit, 131.69, 0
+20230214, Withdrawal from eBay ComRWAKM3ZD PAYMENTS, Debit, -2.8, 1
+20230214, Withdrawal from eBay ComRWAKM3ZD PAYMENTS, Debit, 3030.25, 0
+20230214, Withdrawal from eBay ComRWAKM3ZD PAYMENTS, Debit, -4.15, 1
+20230214, Withdrawal from eBay ComRWAKM3ZD PAYMENTS, Debit, 3033.05, 0
+20230214, Deposit from eBay PAYOUT, Credit, 16.03, 1
+20230214, Deposit from eBay PAYOUT, Credit, 3037.2, 0
+20230214, Deposit from eBay PAYOUT, Credit, 14.01, 1
+20230214, Deposit from eBay PAYOUT, Credit, 3021.17, 0
+20230222, Deposit from 360 Performance Savings XXXXXXX1541, Credit, 2201.23, 1
+20230222, Deposit from 360 Performance Savings XXXXXXX1541, Credit, 2330.85, 0
+20230222, Zelle money sent to Mary Kelley, Debit, -1908.5, 1
+20230222, Zelle money sent to Mary Kelley, Debit, 129.62, 0
+20230222, Deposit from 360 Performance Savings XXXXXXX1541, Credit, 1908.5, 1
+20230222, Deposit from 360 Performance Savings XXXXXXX1541, Credit, 2038.12, 0
+20230222, Deposit from eBay Inc7UPYIHPF ACCTVERIFY, Credit, 0.07, 1
+20230222, Deposit from eBay Inc7UPYIHPF ACCTVERIFY, Credit, 129.62, 0
+20230222, Deposit from eBay Inc7UPYIHPF ACCTVERIFY, Credit, 0.01, 1
+20230222, Deposit from eBay Inc7UPYIHPF ACCTVERIFY, Credit, 129.55, 0
+20230223, Withdrawal to 360 Performance Savings XXXXXXX1541, Debit, -1200.0, 1
+20230223, Withdrawal to 360 Performance Savings XXXXXXX1541, Debit, 2378.85, 0
+20230223, Deposit from VENMO CASHOUT, Credit, 1248.0, 1
+20230223, Deposit from VENMO CASHOUT, Credit, 3578.85, 0
+20230224, Withdrawal from eBay Com66VQ4RD9 PAYMENTS, Debit, -4.24, 1
+20230224, Withdrawal from eBay Com66VQ4RD9 PAYMENTS, Debit, 2382.69, 0
+20230224, Withdrawal from eBay IncHES2GZTI ACCTVERIFY, Debit, -0.08, 1
+20230224, Withdrawal from eBay IncHES2GZTI ACCTVERIFY, Debit, 2386.93, 0
+20230224, Deposit from eBay PAYOUT, Credit, 8.16, 1
+20230224, Deposit from eBay PAYOUT, Credit, 2387.01, 0
+20230228, Monthly Interest Paid, Credit, 0.12, 1
+20230228, Monthly Interest Paid, Credit, 2382.81, 0
+20230301, Withdrawal from CAPITAL ONE CRCARDPMT, Debit, -269.1, 1
+20230301, Withdrawal from CAPITAL ONE CRCARDPMT, Debit, 2082.77, 0
+20230301, Withdrawal from COMCAST 8773100 801998515, Debit, -30.94, 1
+20230301, Withdrawal from COMCAST 8773100 801998515, Debit, 2351.87, 0
+20230302, Withdrawal from VENMO PAYMENT, Debit, -20.0, 1
+20230302, Withdrawal from VENMO PAYMENT, Debit, 2064.61, 0
+20230302, Deposit from eBay PAYOUT, Credit, 1.84, 1
+20230302, Deposit from eBay PAYOUT, Credit, 2084.61, 0
+20230305, Deposit from 360 Performance Savings XXXXXXX1541, Credit, 3500.0, 1
+20230305, Deposit from 360 Performance Savings XXXXXXX1541, Credit, 5564.61, 0
+20230306, Deposit from VENMO CASHOUT, Credit, 20.0, 1
+20230306, Deposit from VENMO CASHOUT, Credit, 5584.61, 0
+20230307, Withdrawal from USAA P&C AUTOPAY, Debit, -68.14, 1
+20230307, Withdrawal from USAA P&C AUTOPAY, Debit, 5516.47, 0
+20230310, Deposit from 360 Performance Savings XXXXXXX1541, Credit, 300.0, 1
+20230310, Deposit from 360 Performance Savings XXXXXXX1541, Credit, 8016.47, 0
+20230310, Deposit from 360 Performance Savings XXXXXXX1541, Credit, 2200.0, 1
+20230310, Deposit from 360 Performance Savings XXXXXXX1541, Credit, 7716.47, 0
+20230313, Withdrawal from LALO MANAGEMENT  252048-129, Debit, -2200.0, 1
+20230313, Withdrawal from LALO MANAGEMENT  252048-129, Debit, 5804.74, 0
+20230313, Withdrawal from PAYPAL to SASHA BROWNSBERGER INST XFER, Debit, -11.73, 1
+20230313, Withdrawal from PAYPAL to SASHA BROWNSBERGER INST XFER, Debit, 8004.74, 0
+20230314, Withdrawal from EVERSOURCE WEB_PAY, Debit, -9.91, 1
+20230314, Withdrawal from EVERSOURCE WEB_PAY, Debit, 5829.04, 0
+20230314, Deposit from eBay PAYOUT, Credit, 25.44, 1
+20230314, Deposit from eBay PAYOUT, Credit, 5838.95, 0
+20230314, Deposit from eBay PAYOUT, Credit, 8.77, 1
+20230314, Deposit from eBay PAYOUT, Credit, 5813.51, 0
+20230316, Withdrawal from AMEX EPAYMENT ACH PMT, Debit, -5093.36, 1
+20230316, Withdrawal from AMEX EPAYMENT ACH PMT, Debit, 736.89, 0
+20230316, Deposit from eBay PAYOUT, Credit, 1.21, 1
+20230316, Deposit from eBay PAYOUT, Credit, 5830.25, 0
+20230317, Withdrawal from KELLEY & RYAN MUNICIPAL, Debit, -67.98, 1
+20230317, Withdrawal from KELLEY & RYAN MUNICIPAL, Debit, 668.91, 0
+20230320, Reimbursement from grandma - Check Deposit (Mobile), Credit, 400.0, 1
+20230320, Reimbursement from grandma - Check Deposit (Mobile), Credit, 1093.07, 0
+20230320, Deposit from eBay ComHBNIWCNR PAYMENTS, Credit, 10.38, 1
+20230320, Deposit from eBay ComHBNIWCNR PAYMENTS, Credit, 693.07, 0
+20230320, Deposit from eBay ComQ94TZGYC PAYMENTS, Credit, 13.78, 1
+20230320, Deposit from eBay ComQ94TZGYC PAYMENTS, Credit, 682.69, 0
+20230321, Withdrawal from VENMO PAYMENT, Debit, -100.0, 1
+20230321, Withdrawal from VENMO PAYMENT, Debit, 993.07, 0
+20230322, Deposit from eBay ComFVMJH1NC PAYMENTS, Credit, 7.18, 1
+20230322, Deposit from eBay ComFVMJH1NC PAYMENTS, Credit, 1000.25, 0
+20230323, Deposit from eBay ComFBIWDDIW PAYMENTS, Credit, 1.38, 1
+20230323, Deposit from eBay ComFBIWDDIW PAYMENTS, Credit, 1001.63, 0
+20230324, Withdrawal from EVERSOURCE WEB_PAY, Debit, -45.15, 1
+20230324, Withdrawal from EVERSOURCE WEB_PAY, Debit, 956.48, 0
+20230325, Deposit from 360 Performance Savings XXXXXXX1541, Credit, 2200.0, 1
+20230325, Deposit from 360 Performance Savings XXXXXXX1541, Credit, 3156.48, 0
+20230328, ATM Withdrawal - CAPITAL ONE A35A SOMERVILLE  MA, Debit, -60.0, 1
+20230328, ATM Withdrawal - CAPITAL ONE A35A SOMERVILLE  MA, Debit, 3115.48, 0
+20230328, Deposit from 360 Performance Savings XXXXXXX1541, Credit, 1000.0, 1
+20230328, Deposit from 360 Performance Savings XXXXXXX1541, Credit, 3175.48, 0
+20230328, Withdrawal from IRS USATAXPYMT, Debit, -731.0, 1
+20230328, Withdrawal from IRS USATAXPYMT, Debit, 2175.48, 0
+20230328, Withdrawal from VANGUARD BUY INVESTMENT, Debit, -250.0, 1
+20230328, Withdrawal from VANGUARD BUY INVESTMENT, Debit, 2906.48, 0
+20230329, Deposit from VENMO CASHOUT, Credit, 1130.0, 1
+20230329, Deposit from VENMO CASHOUT, Credit, 4194.54, 0
+20230329, Withdrawal from COMCAST 8773100 801998515, Debit, -50.94, 1
+20230329, Withdrawal from COMCAST 8773100 801998515, Debit, 3064.54, 0
+20230331, Monthly Interest Paid, Credit, 0.3, 1
+20230331, Monthly Interest Paid, Credit, 4359.84, 0
+20230331, Deposit from COMM. OF MASS. MASTTAXRFD, Credit, 165.0, 1
+20230331, Deposit from COMM. OF MASS. MASTTAXRFD, Credit, 4359.54, 0
+20230401, Deposit from 360 Performance Savings XXXXXXX1541, Credit, 2000.0, 1
+20230401, Deposit from 360 Performance Savings XXXXXXX1541, Credit, 6359.84, 0
+20230403, Withdrawal from LALO MANAGEMENT  252048-129, Debit, -2200.0, 1
+20230403, Withdrawal from LALO MANAGEMENT  252048-129, Debit, 4095.94, 0
+20230403, Withdrawal from CAPITAL ONE CRCARDPMT, Debit, -40.62, 1
+20230403, Withdrawal from CAPITAL ONE CRCARDPMT, Debit, 6295.94, 0
+20230403, Withdrawal from VENMO PAYMENT, Debit, -23.28, 1
+20230403, Withdrawal from VENMO PAYMENT, Debit, 6336.56, 0
+20230405, Check Deposit (Mobile), Credit, 45.0, 1
+20230405, Check Deposit (Mobile), Credit, 9140.94, 0
+20230405, Deposit from 360 Performance Savings XXXXXXX1541, Credit, 5000.0, 1
+20230405, Deposit from 360 Performance Savings XXXXXXX1541, Credit, 9095.94, 0
+20230406, Withdrawal from USAA P&C AUTOPAY, Debit, -68.14, 1
+20230406, Withdrawal from USAA P&C AUTOPAY, Debit, 9072.8, 0
+20230410, Withdrawal from VENMO PAYMENT, Debit, -100.0, 1
+20230410, Withdrawal from VENMO PAYMENT, Debit, 8972.8, 0
+20230411, Withdrawal from VANGUARD BUY INVESTMENT, Debit, -250.0, 1
+20230411, Withdrawal from VANGUARD BUY INVESTMENT, Debit, 8722.8, 0
+20230412, Deposit from VENMO CASHOUT, Credit, 900.0, 1
+20230412, Deposit from VENMO CASHOUT, Credit, 9622.8, 0
+20230413, Deposit from VENMO CASHOUT, Credit, 100.0, 1
+20230413, Deposit from VENMO CASHOUT, Credit, 9722.8, 0
+20230417, Deposit from eBay ComBJ39A5HU PAYMENTS, Credit, 30.68, 1
+20230417, Deposit from eBay ComBJ39A5HU PAYMENTS, Credit, 1195.65, 0
+20230417, Withdrawal from AMEX EPAYMENT ACH PMT, Debit, -8622.45, 1
+20230417, Withdrawal from AMEX EPAYMENT ACH PMT, Debit, 1164.97, 0
+20230417, Deposit from eBay ComOWSVDI0V PAYMENTS, Credit, 64.62, 1
+20230417, Deposit from eBay ComOWSVDI0V PAYMENTS, Credit, 9787.42, 0
+20230418, Deposit from eBay ComH14OAOJQ PAYMENTS, Credit, 35.77, 1
+20230418, Deposit from eBay ComH14OAOJQ PAYMENTS, Credit, 1231.42, 0
+20230420, Deposit from eBay Com6YEPPWPL PAYMENTS, Credit, 143.61, 1
+20230420, Deposit from eBay Com6YEPPWPL PAYMENTS, Credit, 1375.03, 0
+20230421, Deposit from eBay ComEVCEMBHM PAYMENTS, Credit, 41.03, 1
+20230421, Deposit from eBay ComEVCEMBHM PAYMENTS, Credit, 1416.06, 0
+20230424, Deposit from eBay ComVMZJMQY3 PAYMENTS, Credit, 248.55, 1
+20230424, Deposit from eBay ComVMZJMQY3 PAYMENTS, Credit, 1664.61, 0
+20230425, Deposit from eBay ComWKD72A1I PAYMENTS, Credit, 85.14, 1
+20230425, Deposit from eBay ComWKD72A1I PAYMENTS, Credit, 2786.02, 0
+20230425, Withdrawal from eBay Com1HSTBSYG PAYMENTS, Debit, -4.88, 1
+20230425, Withdrawal from eBay Com1HSTBSYG PAYMENTS, Debit, 2700.88, 0
+20230425, Deposit from VENMO CASHOUT, Credit, 1113.0, 1
+20230425, Deposit from VENMO CASHOUT, Credit, 2705.76, 0
+20230425, Withdrawal from VENMO PAYMENT, Debit, -16.19, 1
+20230425, Withdrawal from VENMO PAYMENT, Debit, 1592.76, 0
+20230425, Withdrawal from EVERSOURCE WEB_PAY, Debit, -55.66, 1
+20230425, Withdrawal from EVERSOURCE WEB_PAY, Debit, 1608.95, 0
+20230427, Withdrawal from PAYPAL to SASHA BROWNSBERGER INST XFER, Debit, -452.6, 1
+20230427, Withdrawal from PAYPAL to SASHA BROWNSBERGER INST XFER, Debit, 2333.42, 0
+20230428, Withdrawal from PAYPAL to SASHA BROWNSBERGER INST XFER, Debit, -0.1, 1
+20230428, Withdrawal from PAYPAL to SASHA BROWNSBERGER INST XFER, Debit, 2333.32, 0
+20230430, Monthly Interest Paid, Credit, 0.43, 1
+20230430, Monthly Interest Paid, Credit, 2126.75, 0
+20230430, Zelle money sent to Mary Kelley, Debit, -207.0, 1
+20230430, Zelle money sent to Mary Kelley, Debit, 2126.32, 0
+20230501, Withdrawal from CAPITAL ONE CRCARDPMT, Debit, -427.58, 1
+20230501, Withdrawal from CAPITAL ONE CRCARDPMT, Debit, 2273.23, 0
+20230501, From grandma for coffee table - Check Deposit (Mobile), Credit, 600.0, 1
+20230501, From grandma for coffee table - Check Deposit (Mobile), Credit, 2700.81, 0
+20230501, Withdrawal from COMCAST 8773100 801998515, Debit, -25.94, 1
+20230501, Withdrawal from COMCAST 8773100 801998515, Debit, 2100.81, 0
+20230502, Deposit from 360 Performance Savings XXXXXXX1541, Credit, 2000.0, 1
+20230502, Deposit from 360 Performance Savings XXXXXXX1541, Credit, 2074.64, 0
+20230502, Withdrawal from LALO MANAGEMENT  252048-129, Debit, -2200.0, 1
+20230502, Withdrawal from LALO MANAGEMENT  252048-129, Debit, 74.64, 0
+20230502, Deposit from eBay ComTWG93LIT PAYMENTS, Credit, 1.41, 1
+20230502, Deposit from eBay ComTWG93LIT PAYMENTS, Credit, 2274.64, 0
+20230505, Deposit from GUSTO PAYROLL CON 899906, Credit, 135.0, 1
+20230505, Deposit from GUSTO PAYROLL CON 899906, Credit, 2209.64, 0
+20230508, Withdrawal from USAA P&C AUTOPAY, Debit, -68.14, 1
+20230508, Withdrawal from USAA P&C AUTOPAY, Debit, 2190.52, 0
+20230508, Deposit from eBay ComNXFX4VCS PAYMENTS, Credit, 49.02, 1
+20230508, Deposit from eBay ComNXFX4VCS PAYMENTS, Credit, 2258.66, 0
+20230509, Deposit from 360 Performance Savings XXXXXXX1541, Credit, 4101.0, 1
+20230509, Deposit from 360 Performance Savings XXXXXXX1541, Credit, 6291.52, 0
+20230510, Deposit from VENMO CASHOUT, Credit, 850.0, 1
+20230510, Deposit from VENMO CASHOUT, Credit, 7141.52, 0
+20230511, Withdrawal from VANGUARD BUY INVESTMENT, Debit, -250.0, 1
+20230511, Withdrawal from VANGUARD BUY INVESTMENT, Debit, 6886.19, 0
+20230511, Withdrawal from eBay ComTJQ5KMD4 PAYMENTS, Debit, -5.33, 1
+20230511, Withdrawal from eBay ComTJQ5KMD4 PAYMENTS, Debit, 7136.19, 0
+20230512, Deposit from NFCU ACH P2P SASHA R BROWNSB, Credit, 480.0, 1
+20230512, Deposit from NFCU ACH P2P SASHA R BROWNSB, Credit, 7366.19, 0
+20230515, Withdrawal from AMEX EPAYMENT ACH PMT, Debit, -7187.46, 1
+20230515, Withdrawal from AMEX EPAYMENT ACH PMT, Debit, 178.73, 0
+20230522, Deposit from VENMO CASHOUT, Credit, 318.0, 1
+20230522, Deposit from VENMO CASHOUT, Credit, 489.73, 0
+20230522, Zelle money sent to Mary Kelley, Debit, -2207.0, 1
+20230522, Zelle money sent to Mary Kelley, Debit, 171.73, 0
+20230522, Deposit from 360 Performance Savings XXXXXXX1541, Credit, 200.0, 1
+20230522, Deposit from 360 Performance Savings XXXXXXX1541, Credit, 2378.73, 0
+20230522, Deposit from 360 Performance Savings XXXXXXX1541, Credit, 2000.0, 1
+20230522, Deposit from 360 Performance Savings XXXXXXX1541, Credit, 2178.73, 0
+20230525, Deposit from 360 Performance Savings XXXXXXX1541, Credit, 2200.0, 1
+20230525, Deposit from 360 Performance Savings XXXXXXX1541, Credit, 2632.05, 0
+20230525, Withdrawal from EVERSOURCE WEB_PAY, Debit, -57.68, 1
+20230525, Withdrawal from EVERSOURCE WEB_PAY, Debit, 432.05, 0
+20230526, Withdrawal from VENMO PAYMENT, Debit, -500.0, 1
+20230526, Withdrawal from VENMO PAYMENT, Debit, 2127.71, 0
+20230526, Withdrawal from eBay ComADJIOGN3 PAYMENTS, Debit, -4.34, 1
+20230526, Withdrawal from eBay ComADJIOGN3 PAYMENTS, Debit, 2627.71, 0
+20230530, From grandma - Check Deposit (Mobile), Credit, 500.0, 1
+20230530, From grandma - Check Deposit (Mobile), Credit, 3576.77, 0
+20230530, Withdrawal from COMCAST 8773100 801998515, Debit, -50.94, 1
+20230530, Withdrawal from COMCAST 8773100 801998515, Debit, 3076.77, 0
+20230530, Deposit from VENMO CASHOUT, Credit, 1000.0, 1
+20230530, Deposit from VENMO CASHOUT, Credit, 3127.71, 0
+20230531, Monthly Interest Paid, Credit, 0.22, 1
+20230531, Monthly Interest Paid, Credit, 3576.99, 0
+20230601, Withdrawal from CAPITAL ONE CRCARDPMT, Debit, -643.23, 1
+20230601, Withdrawal from CAPITAL ONE CRCARDPMT, Debit, 2933.76, 0
+20230602, Withdrawal from LALO MANAGEMENT  252048-129, Debit, -2200.0, 1
+20230602, Withdrawal from LALO MANAGEMENT  252048-129, Debit, 733.76, 0
+20230605, Deposit from VENMO CASHOUT, Credit, 638.0, 1
+20230605, Deposit from VENMO CASHOUT, Credit, 1371.76, 0
+20230606, Withdrawal from USAA P&C AUTOPAY, Debit, -68.1, 1
+20230606, Withdrawal from USAA P&C AUTOPAY, Debit, 1553.66, 0
+20230606, Deposit from VENMO CASHOUT, Credit, 250.0, 1
+20230606, Deposit from VENMO CASHOUT, Credit, 1621.76, 0
+20230607, Deposit from GUSTO PAYROLL CON 564291, Credit, 135.0, 1
+20230607, Deposit from GUSTO PAYROLL CON 564291, Credit, 1688.66, 0
+20230608, Deposit from VENMO CASHOUT, Credit, 168.0, 1
+20230608, Deposit from VENMO CASHOUT, Credit, 1856.66, 0
+20230610, Deposit from 360 Performance Savings XXXXXXX1541, Credit, 2259.0, 1
+20230610, Deposit from 360 Performance Savings XXXXXXX1541, Credit, 4115.66, 0
+20230612, Withdrawal from VANGUARD BUY INVESTMENT, Debit, -250.0, 1
+20230612, Withdrawal from VANGUARD BUY INVESTMENT, Debit, 4033.66, 0
+20230612, Deposit from VENMO CASHOUT, Credit, 168.0, 1
+20230612, Deposit from VENMO CASHOUT, Credit, 4283.66, 0
+20230613, Deposit from HARVARD UNIVERSI DIR DEP, Credit, 2964.0, 1
+20230613, Deposit from HARVARD UNIVERSI DIR DEP, Credit, 6997.66, 0
+20230615, Withdrawal from VENMO PAYMENT, Debit, -6.0, 1
+20230615, Withdrawal from VENMO PAYMENT, Debit, 6991.66, 0
+20230620, Withdrawal from AMEX EPAYMENT ACH PMT, Debit, -5133.26, 1
+20230620, Withdrawal from AMEX EPAYMENT ACH PMT, Debit, 1870.82, 0
+20230620, Deposit from VENMO CASHOUT, Credit, 12.0, 1
+20230620, Deposit from VENMO CASHOUT, Credit, 7004.08, 0
+20230620, Deposit from eBay ComWFME9C1B PAYMENTS, Credit, 0.42, 1
+20230620, Deposit from eBay ComWFME9C1B PAYMENTS, Credit, 6992.08, 0
+20230623, Withdrawal from AMEX EPAYMENT ACH PMT, Debit, -100.0, 1
+20230623, Withdrawal from AMEX EPAYMENT ACH PMT, Debit, 1608.7, 0
+20230623, Withdrawal from CHASE CREDIT CRD EPAY, Debit, -100.0, 1
+20230623, Withdrawal from CHASE CREDIT CRD EPAY, Debit, 1708.7, 0
+20230623, Withdrawal from EVERSOURCE WEB_PAY, Debit, -62.12, 1
+20230623, Withdrawal from EVERSOURCE WEB_PAY, Debit, 1808.7, 0
+20230626, Deposit from VENMO CASHOUT, Credit, 50.0, 1
+20230626, Deposit from VENMO CASHOUT, Credit, 1658.7, 0
+20230629, Deposit from 360 Performance Savings XXXXXXX1541, Credit, 1400.0, 1
+20230629, Deposit from 360 Performance Savings XXXXXXX1541, Credit, 3007.76, 0
+20230629, Withdrawal from COMCAST 8773100 801998515, Debit, -50.94, 1
+20230629, Withdrawal from COMCAST 8773100 801998515, Debit, 1607.76, 0
+20230630, Monthly Interest Paid, Credit, 0.26, 1
+20230630, Monthly Interest Paid, Credit, 3012.36, 0
+20230630, Deposit from eBay ComQPCXDCFC PAYMENTS, Credit, 4.34, 1
+20230630, Deposit from eBay ComQPCXDCFC PAYMENTS, Credit, 3012.1, 0
+20230703, Withdrawal from LALO MANAGEMENT  252048-129, Debit, -2200.0, 1
+20230703, Withdrawal from LALO MANAGEMENT  252048-129, Debit, 345.07, 0
+20230703, Withdrawal from CAPITAL ONE CRCARDPMT, Debit, -467.29, 1
+20230703, Withdrawal from CAPITAL ONE CRCARDPMT, Debit, 2545.07, 0
+20230704, Deposit from 360 Performance Savings XXXXXXX1541, Credit, 1200.0, 1
+20230704, Deposit from 360 Performance Savings XXXXXXX1541, Credit, 2540.37, 0
+20230704, Deposit from 360 Performance Savings XXXXXXX1541, Credit, 1000.0, 1
+20230704, Deposit from 360 Performance Savings XXXXXXX1541, Credit, 1340.37, 0
+20230704, Debit Card Purchase - TST BLOC 11 CAFE SOMERVILLE MA, Debit, -4.7, 1
+20230704, Debit Card Purchase - TST BLOC 11 CAFE SOMERVILLE MA, Debit, 340.37, 0
+20230705, Withdrawal from CHASE CREDIT CRD EPAY, Debit, -1150.0, 1
+20230705, Withdrawal from CHASE CREDIT CRD EPAY, Debit, 272.39, 0
+20230705, Withdrawal from AMEX EPAYMENT ACH PMT, Debit, -1117.98, 1
+20230705, Withdrawal from AMEX EPAYMENT ACH PMT, Debit, 1422.39, 0
+20230706, Withdrawal from USAA P&C AUTOPAY, Debit, -62.08, 1
+20230706, Withdrawal from USAA P&C AUTOPAY, Debit, 210.31, 0
+20230707, Deposit from GUSTO PAYROLL CON 190152, Credit, 405.0, 1
+20230707, Deposit from GUSTO PAYROLL CON 190152, Credit, 615.31, 0
+20230708, Debit Card Purchase - CSC SERVICEWORK PORTLAND ME, Debit, -2.0, 1
+20230708, Debit Card Purchase - CSC SERVICEWORK PORTLAND ME, Debit, 613.31, 0
+20230709, Debit Card Purchase - 7 ELEVEN 32532 PORTLAND ME, Debit, -21.23, 1
+20230709, Debit Card Purchase - 7 ELEVEN 32532 PORTLAND ME, Debit, 592.08, 0
+20230710, Withdrawal from VENMO PAYMENT, Debit, -160.0, 1
+20230710, Withdrawal from VENMO PAYMENT, Debit, 432.08, 0
+20230710, Withdrawal from BANK OF AMERICA ACCTVERIFY, Debit, -0.82, 1
+20230710, Withdrawal from BANK OF AMERICA ACCTVERIFY, Debit, 592.08, 0
+20230710, Deposit from BANK OF AMERICA ACCTVERIFY, Credit, 0.44, 1
+20230710, Deposit from BANK OF AMERICA ACCTVERIFY, Credit, 592.9, 0
+20230710, Deposit from BANK OF AMERICA ACCTVERIFY, Credit, 0.38, 1
+20230710, Deposit from BANK OF AMERICA ACCTVERIFY, Credit, 592.46, 0
+20230711, Withdrawal from VANGUARD BUY INVESTMENT, Debit, -250.0, 1
+20230711, Withdrawal from VANGUARD BUY INVESTMENT, Debit, 182.08, 0
+20230712, Deposit from HARVARD UNIVERSI DIR DEP, Credit, 2964.0, 1
+20230712, Deposit from HARVARD UNIVERSI DIR DEP, Credit, 3146.08, 0
+20230713, Deposit from HARVARD UNIVERSI DIR DEP, Credit, 90.1, 1
+20230713, Deposit from HARVARD UNIVERSI DIR DEP, Credit, 3236.18, 0
+20230717, Withdrawal from VENMO PAYMENT, Debit, -95.0, 1
+20230717, Withdrawal from VENMO PAYMENT, Debit, 4056.18, 0
+20230717, Withdrawal from VENMO PAYMENT, Debit, -95.0, 1
+20230717, Withdrawal from VENMO PAYMENT, Debit, 4151.18, 0
+20230717, Withdrawal from VENMO PAYMENT, Debit, -35.0, 1
+20230717, Withdrawal from VENMO PAYMENT, Debit, 4246.18, 0
+20230717, Withdrawal from VENMO PAYMENT, Debit, -27.0, 1
+20230717, Withdrawal from VENMO PAYMENT, Debit, 4281.18, 0
+20230717, Withdrawal from VENMO PAYMENT, Debit, -19.0, 1
+20230717, Withdrawal from VENMO PAYMENT, Debit, 4308.18, 0
+20230717, Withdrawal from VENMO PAYMENT, Debit, -9.0, 1
+20230717, Withdrawal from VENMO PAYMENT, Debit, 4327.18, 0
+20230717, Deposit from 360 Performance Savings XXXXXXX1541, Credit, 1100.0, 1
+20230717, Deposit from 360 Performance Savings XXXXXXX1541, Credit, 4336.18, 0
+20230718, Withdrawal from CHASE CREDIT CRD EPAY, Debit, -156.75, 1
+20230718, Withdrawal from CHASE CREDIT CRD EPAY, Debit, 3899.43, 0
+20230720, Deposit from 360 Performance Savings XXXXXXX1541, Credit, 1000.0, 1
+20230720, Deposit from 360 Performance Savings XXXXXXX1541, Credit, 4945.47, 0
+20230720, Deposit from eBay ComSZPQIEGV PAYMENTS, Credit, 46.04, 1
+20230720, Deposit from eBay ComSZPQIEGV PAYMENTS, Credit, 3945.47, 0
+20230721, Withdrawal from AMEX EPAYMENT RETRY PYMT, Debit, -3900.0, 1
+20230721, Withdrawal from AMEX EPAYMENT RETRY PYMT, Debit, 1045.47, 0
+20230723, Debit Card Purchase - SEASONED AMERICAN BIST ESTES PARK CO, Debit, -134.14, 1
+20230723, Debit Card Purchase - SEASONED AMERICAN BIST ESTES PARK CO, Debit, 911.33, 0
+20230725, Deposit from 360 Performance Savings XXXXXXX1541, Credit, 1500.0, 1
+20230725, Deposit from 360 Performance Savings XXXXXXX1541, Credit, 2356.06, 0
+20230725, Withdrawal from EVERSOURCE WEB_PAY, Debit, -56.85, 1
+20230725, Withdrawal from EVERSOURCE WEB_PAY, Debit, 856.06, 0
+20230725, Deposit from eBay ComV4QFW4KN PAYMENTS, Credit, 1.58, 1
+20230725, Deposit from eBay ComV4QFW4KN PAYMENTS, Credit, 912.91, 0
+20230727, Deposit from GUSTO PAYROLL CON 661642, Credit, 481.5, 1
+20230727, Deposit from GUSTO PAYROLL CON 661642, Credit, 2837.56, 0
+20230731, Monthly Interest Paid, Credit, 0.18, 1
+20230731, Monthly Interest Paid, Credit, 2824.8, 0
+20230731, Deposit from 360 Performance Savings XXXXXXX1541, Credit, 50.0, 1
+20230731, Deposit from 360 Performance Savings XXXXXXX1541, Credit, 2824.62, 0
+20230731, Withdrawal from VENMO PAYMENT, Debit, -12.0, 1
+20230731, Withdrawal from VENMO PAYMENT, Debit, 2774.62, 0
+20230731, Withdrawal from COMCAST 8773100 801998515, Debit, -50.94, 1
+20230731, Withdrawal from COMCAST 8773100 801998515, Debit, 2786.62, 0
+20230801, Withdrawal from CAPITAL ONE CRCARDPMT, Debit, -609.59, 1
+20230801, Withdrawal from CAPITAL ONE CRCARDPMT, Debit, 2140.21, 0
+20230801, Withdrawal from LALO MANAGEMENT  252048-129, Debit, -2200.0, 1
+20230801, Withdrawal from LALO MANAGEMENT  252048-129, Debit, 2749.8, 0
+20230801, Deposit from NFCU ACH P2P SASHA R BROWNSB, Credit, 2125.0, 1
+20230801, Deposit from NFCU ACH P2P SASHA R BROWNSB, Credit, 4949.8, 0
+20230802, Check Deposit (Mobile), Credit, 1.47, 1
+20230802, Check Deposit (Mobile), Credit, 104.19, 0
+20230802, Withdrawal from AMEX EPAYMENT ACH PMT, Debit, -1937.49, 1
+20230802, Withdrawal from AMEX EPAYMENT ACH PMT, Debit, 102.72, 0
+20230802, Withdrawal from ROBINHOOD DEBITS, Debit, -100.0, 1
+20230802, Withdrawal from ROBINHOOD DEBITS, Debit, 2040.21, 0
+20230803, Withdrawal from VENMO PAYMENT, Debit, -9.82, 1
+20230803, Withdrawal from VENMO PAYMENT, Debit, 94.37, 0
+20230804, Deposit from NFCU ACH P2P SASHA R BROWNSB, Credit, 45.0, 1
+20230804, Deposit from NFCU ACH P2P SASHA R BROWNSB, Credit, 136.38, 0
+20230804, Withdrawal from CHASE CREDIT CRD EPAY, Debit, -2.99, 1
+20230804, Withdrawal from CHASE CREDIT CRD EPAY, Debit, 91.38, 0
+20230807, Withdrawal from CHASE CREDIT CRD EPAY, Debit, -12.99, 1
+20230807, Withdrawal from CHASE CREDIT CRD EPAY, Debit, 123.39, 0
+20230808, Withdrawal from USAA P&C AUTOPAY, Debit, -62.08, 1
+20230808, Withdrawal from USAA P&C AUTOPAY, Debit, 61.31, 0
+20230809, Withdrawal from VENMO PAYMENT, Debit, -12.0, 1
+20230809, Withdrawal from VENMO PAYMENT, Debit, 49.31, 0
+20230812, From Cindy - Check Deposit (Mobile), Credit, 100.0, 1
+20230812, From Cindy - Check Deposit (Mobile), Credit, 449.31, 0
+20230812, From Judy - Check Deposit (Mobile), Credit, 300.0, 1
+20230812, From Judy - Check Deposit (Mobile), Credit, 349.31, 0
+20230813, Withdrawal to 360 Performance Savings XXXXXXX1541, Debit, -400.0, 1
+20230813, Withdrawal to 360 Performance Savings XXXXXXX1541, Debit, 3101.29, 0
+20230813, Deposit from HARVARD UNIVERSI DIR DEP, Credit, 3051.98, 1
+20230813, Deposit from HARVARD UNIVERSI DIR DEP, Credit, 3501.29, 0
+20230814, Withdrawal from VANGUARD BUY INVESTMENT BPF_DSS_0_0814115553.txt, Debit, -250.0, 1
+20230814, Withdrawal from VANGUARD BUY INVESTMENT BPF_DSS_0_0814115553.txt, Debit, 2659.63, 0
+20230814, Withdrawal from CHASE CREDIT CRD EPAY, Debit, -123.92, 1
+20230814, Withdrawal from CHASE CREDIT CRD EPAY, Debit, 2909.63, 0
+20230814, Withdrawal from VENMO PAYMENT, Debit, -70.0, 1
+20230814, Withdrawal from VENMO PAYMENT, Debit, 3033.55, 0
+20230814, Deposit from eBay ComOZMGHARN PAYMENTS, Credit, 2.26, 1
+20230814, Deposit from eBay ComOZMGHARN PAYMENTS, Credit, 3103.55, 0
+20230815, Withdrawal from VENMO PAYMENT, Debit, -746.0, 1
+20230815, Withdrawal from VENMO PAYMENT, Debit, 3674.63, 0
+20230815, Withdrawal from VENMO PAYMENT, Debit, -796.0, 1
+20230815, Withdrawal from VENMO PAYMENT, Debit, 4420.63, 0
+20230815, Deposit from NFCU ACH P2P SASHA R BROWNSB, Credit, 2557.0, 1
+20230815, Deposit from NFCU ACH P2P SASHA R BROWNSB, Credit, 5216.63, 0
+20230816, Mom wedding gift  1 of 3 - Withdrawal to 360 Performance Savings XXXXXXX1541, Debit, -700.0, 1
+20230816, Mom wedding gift  1 of 3 - Withdrawal to 360 Performance Savings XXXXXXX1541, Debit, 3874.63, 0
+20230816, Cash Added - CVS Pharmacy, Credit, 900.0, 1
+20230816, Cash Added - CVS Pharmacy, Credit, 4574.63, 0
+20230817, Deposit from ROBINHOOD Funds, Credit, 207.53, 1
+20230817, Deposit from ROBINHOOD Funds, Credit, 4082.16, 0
+20230818, Withdrawal from PAYPAL to SASHA BROWNSBERGER INST XFER, Debit, -30.32, 1
+20230818, Withdrawal from PAYPAL to SASHA BROWNSBERGER INST XFER, Debit, 4153.28, 0
+20230818, Deposit from ROBINHOOD CREDITS, Credit, 101.44, 1
+20230818, Deposit from ROBINHOOD CREDITS, Credit, 4183.6, 0
+20230819, Cash Added - Walgreens, Credit, 600.0, 1
+20230819, Cash Added - Walgreens, Credit, 4753.28, 0
+20230820, Withdrawal to 360 Performance Savings XXXXXXX1541, Debit, -600.0, 1
+20230820, Withdrawal to 360 Performance Savings XXXXXXX1541, Debit, 4153.28, 0
+20230821, NMCR loan - Check Deposit (Mobile), Credit, 1000.0, 1
+20230821, NMCR loan - Check Deposit (Mobile), Credit, 1703.74, 0
+20230821, Cash Added - CVS Pharmacy, Credit, 700.0, 1
+20230821, Cash Added - CVS Pharmacy, Credit, 703.74, 0
+20230821, Withdrawal from AMEX EPAYMENT ACH PMT, Debit, -4130.23, 1
+20230821, Withdrawal from AMEX EPAYMENT ACH PMT, Debit, 3.74, 0
+20230821, Withdrawal from VENMO PAYMENT, Debit, -43.17, 1
+20230821, Withdrawal from VENMO PAYMENT, Debit, 4133.97, 0
+20230821, Deposit from VENMO CASHOUT, Credit, 23.86, 1
+20230821, Deposit from VENMO CASHOUT, Credit, 4177.14, 0
+20230822, Withdrawal to 360 Performance Savings XXXXXXX1541, Debit, -700.0, 1
+20230822, Withdrawal to 360 Performance Savings XXXXXXX1541, Debit, 1137.96, 0
+20230822, Deposit from VENMO CASHOUT, Credit, 134.22, 1
+20230822, Deposit from VENMO CASHOUT, Credit, 1837.96, 0
+20230823, Deposit from 360 Performance Savings XXXXXXX1541, Credit, 500.0, 1
+20230823, Deposit from 360 Performance Savings XXXXXXX1541, Credit, 674.96, 0
+20230823, Zelle money sent to MARK SHIFFER, Debit, -963.0, 1
+20230823, Zelle money sent to MARK SHIFFER, Debit, 174.96, 0
+20230824, Withdrawal from STUDENT TUITION ECHECKPAY, Debit, -25.0, 1
+20230824, Withdrawal from STUDENT TUITION ECHECKPAY, Debit, 679.96, 0
+20230824, Deposit from NFCU ACH P2P SASHA R BROWNSB, Credit, 30.0, 1
+20230824, Deposit from NFCU ACH P2P SASHA R BROWNSB, Credit, 704.96, 0
+20230825, Withdrawal from EVERSOURCE WEB_PAY, Debit, -57.72, 1
+20230825, Withdrawal from EVERSOURCE WEB_PAY, Debit, 622.24, 0
+20230828, Withdrawal from VENMO PAYMENT, Debit, -18.0, 1
+20230828, Withdrawal from VENMO PAYMENT, Debit, 614.24, 0
+20230828, Deposit from VENMO CASHOUT, Credit, 10.0, 1
+20230828, Deposit from VENMO CASHOUT, Credit, 632.24, 0
+20230829, Deposit from 360 Performance Savings XXXXXXX1541, Credit, 500.0, 1
+20230829, Deposit from 360 Performance Savings XXXXXXX1541, Credit, 1063.3, 0
+20230829, Withdrawal from COMCAST 8773100 801998515, Debit, -50.94, 1
+20230829, Withdrawal from COMCAST 8773100 801998515, Debit, 563.3, 0
+20230830, Deposit from 360 Performance Savings XXXXXXX1541, Credit, 200.0, 1
+20230830, Deposit from 360 Performance Savings XXXXXXX1541, Credit, 1863.3, 0
+20230830, From Wedding - Deposit from 360 Performance Savings XXXXXXX1541, Credit, 600.0, 1
+20230830, From Wedding - Deposit from 360 Performance Savings XXXXXXX1541, Credit, 1663.3, 0
+20230831, Monthly Interest Paid, Credit, 0.11, 1
+20230831, Monthly Interest Paid, Credit, 1342.61, 0
+20230831, For movers - Deposit from 360 Performance Savings XXXXXXX1541, Credit, 400.0, 1
+20230831, For movers - Deposit from 360 Performance Savings XXXXXXX1541, Credit, 1342.5, 0
+20230831, Zelle money sent to ON IT MOVERS LLC, Debit, -897.8, 1
+20230831, Zelle money sent to ON IT MOVERS LLC, Debit, 942.5, 0
+20230831, Withdrawal from VENMO PAYMENT, Debit, -23.0, 1
+20230831, Withdrawal from VENMO PAYMENT, Debit, 1840.3, 0
+20230901, Withdrawal from CAPITAL ONE CRCARDPMT, Debit, -733.35, 1
+20230901, Withdrawal from CAPITAL ONE CRCARDPMT, Debit, 856.26, 0
+20230901, Deposit from 360 Performance Savings XXXXXXX1541, Credit, 212.0, 1
+20230901, Deposit from 360 Performance Savings XXXXXXX1541, Credit, 1589.61, 0
+20230901, Deposit from VENMO CASHOUT, Credit, 35.0, 1
+20230901, Deposit from VENMO CASHOUT, Credit, 1377.61, 0
+20230905, Withdrawal from VENMO PAYMENT, Debit, -477.5, 1
+20230905, Withdrawal from VENMO PAYMENT, Debit, 428.02, 0
+20230905, Withdrawal from VENMO PAYMENT, Debit, -50.0, 1
+20230905, Withdrawal from VENMO PAYMENT, Debit, 905.52, 0
+20230905, Withdrawal from CHASE CREDIT CRD EPAY, Debit, -25.19, 1
+20230905, Withdrawal from CHASE CREDIT CRD EPAY, Debit, 955.52, 0
+20230905, Withdrawal from VENMO PAYMENT, Debit, -14.93, 1
+20230905, Withdrawal from VENMO PAYMENT, Debit, 980.71, 0
+20230905, Deposit from eBay ComGFOR1715 PAYMENTS, Credit, 56.18, 1
+20230905, Deposit from eBay ComGFOR1715 PAYMENTS, Credit, 995.64, 0
+20230905, Deposit from eBay Com0AX1FUI2 PAYMENTS, Credit, 83.2, 1
+20230905, Deposit from eBay Com0AX1FUI2 PAYMENTS, Credit, 939.46, 0
+20230906, Zelle money sent to MARK SHIFFER, Debit, -1129.0, 1
+20230906, Zelle money sent to MARK SHIFFER, Debit, 366.94, 0
+20230906, Withdrawal from USAA P&C AUTOPAY, Debit, -62.08, 1
+20230906, Withdrawal from USAA P&C AUTOPAY, Debit, 1495.94, 0
+20230906, Deposit from NFCU ACH P2P SASHA R BROWNSB, Credit, 1130.0, 1
+20230906, Deposit from NFCU ACH P2P SASHA R BROWNSB, Credit, 1558.02, 0
+20230908, Withdrawal from CHASE CREDIT CRD EPAY, Debit, -80.0, 1
+20230908, Withdrawal from CHASE CREDIT CRD EPAY, Debit, 286.94, 0
+20230911, Withdrawal from VENMO PAYMENT, Debit, -9.82, 1
+20230911, Withdrawal from VENMO PAYMENT, Debit, 272.97, 0
+20230911, Withdrawal from eBay ComSETLQ6GQ PAYMENTS, Debit, -4.15, 1
+20230911, Withdrawal from eBay ComSETLQ6GQ PAYMENTS, Debit, 282.79, 0
+20230912, Withdrawal from STUDENT TUITION ECHECKPAY, Debit, -50.0, 1
+20230912, Withdrawal from STUDENT TUITION ECHECKPAY, Debit, 222.97, 0
+20230913, Deposit from HARVARD UNIVERSI DIR DEP, Credit, 3051.98, 1
+20230913, Deposit from HARVARD UNIVERSI DIR DEP, Credit, 3238.39, 0
+20230913, Withdrawal from eBay Com91PIWGLK PAYMENTS, Debit, -36.56, 1
+20230913, Withdrawal from eBay Com91PIWGLK PAYMENTS, Debit, 186.41, 0
+20230915, Withdrawal from VENMO PAYMENT, Debit, -289.0, 1
+20230915, Withdrawal from VENMO PAYMENT, Debit, 4792.04, 0
+20230915, Withdrawal from VENMO PAYMENT, Debit, -204.62, 1
+20230915, Withdrawal from VENMO PAYMENT, Debit, 5081.04, 0
+20230915, Withdrawal from VENMO PAYMENT, Debit, -20.0, 1
+20230915, Withdrawal from VENMO PAYMENT, Debit, 5285.66, 0
+20230915, Deposit from NFCU ACH P2P SASHA R BROWNSB, Credit, 2065.0, 1
+20230915, Deposit from NFCU ACH P2P SASHA R BROWNSB, Credit, 5305.66, 0
+20230915, Deposit from eBay Com4NZQ7JNE PAYMENTS, Credit, 2.27, 1
+20230915, Deposit from eBay Com4NZQ7JNE PAYMENTS, Credit, 3240.66, 0
+20230918, Deposit from eBay ComM0PFQZI2 PAYMENTS, Credit, 4.15, 1
+20230918, Deposit from eBay ComM0PFQZI2 PAYMENTS, Credit, 4799.86, 0
+20230918, Deposit from eBay ComOAPH7VOX PAYMENTS, Credit, 1.83, 1
+20230918, Deposit from eBay ComOAPH7VOX PAYMENTS, Credit, 4795.71, 0
+20230918, Deposit from eBay ComRACZBLGN PAYMENTS, Credit, 1.84, 1
+20230918, Deposit from eBay ComRACZBLGN PAYMENTS, Credit, 4793.88, 0
+20230919, Colorado school reimbursment - Check Deposit (Mobile), Credit, 489.8, 1
+20230919, Colorado school reimbursment - Check Deposit (Mobile), Credit, 5289.66, 0
+20230920, Withdrawal from AMEX EPAYMENT ACH PMT, Debit, -3533.41, 1
+20230920, Withdrawal from AMEX EPAYMENT ACH PMT, Debit, 1756.25, 0
+20230921, Deposit from COMCAST CABLE, Credit, 31.22, 1
+20230921, Deposit from COMCAST CABLE, Credit, 1787.47, 0
+20230922, Deposit from eBay Com023BN7WR PAYMENTS, Credit, 54.64, 1
+20230922, Deposit from eBay Com023BN7WR PAYMENTS, Credit, 1842.11, 0
+20230925, Deposit from PAYPAL from SASHA BROWNSBERGER TRANSFER, Credit, 197.51, 1
+20230925, Deposit from PAYPAL from SASHA BROWNSBERGER TRANSFER, Credit, 2039.62, 0
+20230926, Zelle money sent to MARK SHIFFER, Debit, -1025.0, 1
+20230926, Zelle money sent to MARK SHIFFER, Debit, 989.37, 0
+20230926, Withdrawal from EVERSOURCE WEB_PAY, Debit, -27.53, 1
+20230926, Withdrawal from EVERSOURCE WEB_PAY, Debit, 2014.37, 0
+20230926, Deposit from eBay ComRSGNU5AE PAYMENTS, Credit, 2.28, 1
+20230926, Deposit from eBay ComRSGNU5AE PAYMENTS, Credit, 2041.9, 0
+20230927, Deposit from eBay ComKPFGMPD3 PAYMENTS, Credit, 4.15, 1
+20230927, Deposit from eBay ComKPFGMPD3 PAYMENTS, Credit, 993.52, 0
+20230930, Monthly Interest Paid, Credit, 0.14, 1
+20230930, Monthly Interest Paid, Credit, 993.66, 0
+20231002, Security deposit return - Check Deposit (Mobile), Credit, 2201.39, 1
+20231002, Security deposit return - Check Deposit (Mobile), Credit, 3245.05, 0
+20231002, Deposit from NFCU ACH P2P SASHA R BROWNSB, Credit, 50.0, 1
+20231002, Deposit from NFCU ACH P2P SASHA R BROWNSB, Credit, 1043.66, 0
+20231004, Withdrawal from AMEX EPAYMENT ACH PMT, Debit, -2753.75, 1
+20231004, Withdrawal from AMEX EPAYMENT ACH PMT, Debit, 141.3, 0
+20231004, Withdrawal from CHASE CREDIT CRD EPAY, Debit, -350.0, 1
+20231004, Withdrawal from CHASE CREDIT CRD EPAY, Debit, 2895.05, 0
+20231006, Withdrawal from VENMO PAYMENT, Debit, -70.0, 1
+20231006, Withdrawal from VENMO PAYMENT, Debit, 32.54, 0
+20231006, Withdrawal from USAA P&C AUTOPAY, Debit, -62.08, 1
+20231006, Withdrawal from USAA P&C AUTOPAY, Debit, 102.54, 0
+20231006, Deposit from VENMO CASHOUT, Credit, 23.32, 1
+20231006, Deposit from VENMO CASHOUT, Credit, 164.62, 0
+20231011, Deposit from HARVARD UNIVERSI DIR DEP, Credit, 3051.98, 1
+20231011, Deposit from HARVARD UNIVERSI DIR DEP, Credit, 3107.52, 0
+20231011, Deposit from NFCU ACH P2P SASHA R BROWNSB, Credit, 23.0, 1
+20231011, Deposit from NFCU ACH P2P SASHA R BROWNSB, Credit, 55.54, 0
+20231012, Withdrawal from VENMO PAYMENT, Debit, -73.92, 1
+20231012, Withdrawal from VENMO PAYMENT, Debit, 3033.6, 0
+20231013, Withdrawal from VENMO PAYMENT, Debit, -106.0, 1
+20231013, Withdrawal from VENMO PAYMENT, Debit, 2845.6, 0
+20231013, Withdrawal from VENMO PAYMENT, Debit, -42.0, 1
+20231013, Withdrawal from VENMO PAYMENT, Debit, 2951.6, 0
+20231013, Withdrawal from VENMO PAYMENT, Debit, -40.0, 1
+20231013, Withdrawal from VENMO PAYMENT, Debit, 2993.6, 0
+20231016, Withdrawal from VENMO PAYMENT, Debit, -75.0, 1
+20231016, Withdrawal from VENMO PAYMENT, Debit, 3119.12, 0
+20231016, Withdrawal from VENMO PAYMENT, Debit, -23.0, 1
+20231016, Withdrawal from VENMO PAYMENT, Debit, 3194.12, 0
+20231016, Deposit from PAYPAL from SASHA BROWNSBERGER TRANSFER, Credit, 371.52, 1
+20231016, Deposit from PAYPAL from SASHA BROWNSBERGER TRANSFER, Credit, 3217.12, 0
+20231017, Withdrawal from VENMO PAYMENT, Debit, -50.0, 1
+20231017, Withdrawal from VENMO PAYMENT, Debit, 5099.12, 0
+20231017, Deposit from NFCU ACH P2P SASHA R BROWNSB, Credit, 2030.0, 1
+20231017, Deposit from NFCU ACH P2P SASHA R BROWNSB, Credit, 5149.12, 0
+20231020, Withdrawal from VENMO PAYMENT, Debit, -40.0, 1
+20231020, Withdrawal from VENMO PAYMENT, Debit, 5059.12, 0
+20231023, Withdrawal from AMEX EPAYMENT ACH PMT, Debit, -1744.87, 1
+20231023, Withdrawal from AMEX EPAYMENT ACH PMT, Debit, 3314.25, 0
+20231025, Deposit from eBay ComWUUIUGIG PAYMENTS, Credit, 15.32, 1
+20231025, Deposit from eBay ComWUUIUGIG PAYMENTS, Credit, 3329.57, 0
+20231026, Zelle money sent to MARK SHIFFER, Debit, -1025.0, 1
+20231026, Zelle money sent to MARK SHIFFER, Debit, 2304.57, 0
+20231030, Deposit from VENMO CASHOUT, Credit, 44.85, 1
+20231030, Deposit from VENMO CASHOUT, Credit, 2349.42, 0
+20231031, Monthly Interest Paid, Credit, 0.21, 1
+20231031, Monthly Interest Paid, Credit, 2349.63, 0
+20231101, Withdrawal from CAPITAL ONE CRCARDPMT, Debit, -1918.79, 1
+20231101, Withdrawal from CAPITAL ONE CRCARDPMT, Debit, 1858.04, 0
+20231101, ATM Withdrawal - CIRCLE K #27-K02 CK024392 PENSACOLA  FL, Debit, -100.0, 1
+20231101, ATM Withdrawal - CIRCLE K #27-K02 CK024392 PENSACOLA  FL, Debit, 3776.83, 0
+20231101, Deposit from GUSTO PAYROLL CON 001406, Credit, 49.5, 1
+20231101, Deposit from GUSTO PAYROLL CON 001406, Credit, 3876.83, 0
+20231101, Withdrawal from VENMO PAYMENT, Debit, -124.2, 1
+20231101, Withdrawal from VENMO PAYMENT, Debit, 3827.33, 0
+20231101, Withdrawal from VENMO PAYMENT, Debit, -79.84, 1
+20231101, Withdrawal from VENMO PAYMENT, Debit, 3951.53, 0
+20231101, Withdrawal from VENMO PAYMENT, Debit, -40.26, 1
+20231101, Withdrawal from VENMO PAYMENT, Debit, 4031.37, 0
+20231101, Deposit from NFCU ACH P2P SASHA R BROWNSB, Credit, 1722.0, 1
+20231101, Deposit from NFCU ACH P2P SASHA R BROWNSB, Credit, 4071.63, 0
+20231103, Withdrawal from AMEX EPAYMENT ACH PMT, Debit, -490.5, 1
+20231103, Withdrawal from AMEX EPAYMENT ACH PMT, Debit, 416.35, 0
+20231103, Withdrawal from VENMO PAYMENT, Debit, -70.0, 1
+20231103, Withdrawal from VENMO PAYMENT, Debit, 906.85, 0
+20231103, Withdrawal from CHASE CREDIT CRD EPAY, Debit, -881.19, 1
+20231103, Withdrawal from CHASE CREDIT CRD EPAY, Debit, 976.85, 0
+20231106, Withdrawal from PAYPAL to SASHA BROWNSBERGER INST XFER, Debit, -50.97, 1
+20231106, Withdrawal from PAYPAL to SASHA BROWNSBERGER INST XFER, Debit, 365.38, 0
+20231107, Withdrawal from USAA P&C AUTOPAY, Debit, -62.08, 1
+20231107, Withdrawal from USAA P&C AUTOPAY, Debit, 232.0, 0
+20231107, Withdrawal from VENMO PAYMENT, Debit, -70.0, 1
+20231107, Withdrawal from VENMO PAYMENT, Debit, 294.08, 0
+20231107, Withdrawal from CHASE CREDIT CRD EPAY, Debit, -1.3, 1
+20231107, Withdrawal from CHASE CREDIT CRD EPAY, Debit, 364.08, 0
+20231113, Deposit from HARVARD UNIVERSI DIR DEP, Credit, 3051.98, 1
+20231113, Deposit from HARVARD UNIVERSI DIR DEP, Credit, 3283.98, 0
+20231114, Withdrawal from VENMO PAYMENT, Debit, -76.0, 1
+20231114, Withdrawal from VENMO PAYMENT, Debit, 3207.98, 0
+20231120, Withdrawal from AMEX EPAYMENT ACH PMT, Debit, -1484.62, 1
+20231120, Withdrawal from AMEX EPAYMENT ACH PMT, Debit, 1723.36, 0
+20231122, Withdrawal from VENMO PAYMENT, Debit, -42.0, 1
+20231122, Withdrawal from VENMO PAYMENT, Debit, 1662.36, 0
+20231122, Withdrawal from VENMO PAYMENT, Debit, -19.0, 1
+20231122, Withdrawal from VENMO PAYMENT, Debit, 1704.36, 0
+20231124, Withdrawal from VENMO PAYMENT, Debit, -30.6, 1
+20231124, Withdrawal from VENMO PAYMENT, Debit, 1599.76, 0
+20231124, Withdrawal from VENMO PAYMENT, Debit, -17.0, 1
+20231124, Withdrawal from VENMO PAYMENT, Debit, 1630.36, 0
+20231124, Withdrawal from VENMO PAYMENT, Debit, -15.0, 1
+20231124, Withdrawal from VENMO PAYMENT, Debit, 1647.36, 0
+20231127, Zelle money sent to MARK SHIFFER, Debit, -1025.0, 1
+20231127, Zelle money sent to MARK SHIFFER, Debit, 574.76, 0
+20231128, Withdrawal from VENMO PAYMENT, Debit, -143.82, 1
+20231128, Withdrawal from VENMO PAYMENT, Debit, 488.04, 0
+20231128, Deposit from eBay ComPS6TRJBA PAYMENTS, Credit, 57.1, 1
+20231128, Deposit from eBay ComPS6TRJBA PAYMENTS, Credit, 631.86, 0
+20231129, Deposit from eBay Com5MOTKFNE PAYMENTS, Credit, 5.15, 1
+20231129, Deposit from eBay Com5MOTKFNE PAYMENTS, Credit, 493.19, 0
+20231130, Monthly Interest Paid, Credit, 0.12, 1
+20231130, Monthly Interest Paid, Credit, 1333.8, 0
+20231130, Deposit from 360 Performance Savings XXXXXXX1541, Credit, 1000.0, 1
+20231130, Deposit from 360 Performance Savings XXXXXXX1541, Credit, 1333.68, 0
+20231130, Withdrawal from VENMO PAYMENT, Debit, -105.58, 1
+20231130, Withdrawal from VENMO PAYMENT, Debit, 333.68, 0
+20231130, Withdrawal from CHASE CREDIT CRD EPAY, Debit, -53.93, 1
+20231130, Withdrawal from CHASE CREDIT CRD EPAY, Debit, 439.26, 0
+20231201, Withdrawal from CAPITAL ONE CRCARDPMT, Debit, -1770.26, 1
+20231201, Withdrawal from CAPITAL ONE CRCARDPMT, Debit, 63.54, 0
+20231201, Deposit from 360 Performance Savings XXXXXXX1541, Credit, 500.0, 1
+20231201, Deposit from 360 Performance Savings XXXXXXX1541, Credit, 1833.8, 0
+20231202, Deposit from 360 Performance Savings XXXXXXX1541, Credit, 500.0, 1
+20231202, Deposit from 360 Performance Savings XXXXXXX1541, Credit, 563.54, 0
+20231204, Deposit from NFCU ACH P2P SASHA R BROWNSB, Credit, 1742.0, 1
+20231204, Deposit from NFCU ACH P2P SASHA R BROWNSB, Credit, 2305.54, 0
+20231205, Withdrawal from AMEX EPAYMENT ACH PMT, Debit, -1674.42, 1
+20231205, Withdrawal from AMEX EPAYMENT ACH PMT, Debit, 632.11, 0
+20231205, Deposit from eBay ComUNZHAUUF PAYMENTS, Credit, 0.99, 1
+20231205, Deposit from eBay ComUNZHAUUF PAYMENTS, Credit, 2306.53, 0
+20231206, Withdrawal from USAA P&C AUTOPAY, Debit, -62.08, 1
+20231206, Withdrawal from USAA P&C AUTOPAY, Debit, 555.03, 0
+20231206, Withdrawal from CHASE CREDIT CRD EPAY, Debit, -15.0, 1
+20231206, Withdrawal from CHASE CREDIT CRD EPAY, Debit, 617.11, 0
+20231207, Withdrawal from VENMO PAYMENT, Debit, -10.0, 1
+20231207, Withdrawal from VENMO PAYMENT, Debit, 475.03, 0
+20231207, Withdrawal from VENMO PAYMENT, Debit, -70.0, 1
+20231207, Withdrawal from VENMO PAYMENT, Debit, 485.03, 0
+20231208, Withdrawal from BK OF AMER MC ONLINE PMT, Debit, -190.0, 1
+20231208, Withdrawal from BK OF AMER MC ONLINE PMT, Debit, 285.03, 0
+20231210, Debit Card Purchase - TACOS EL FLUFFY PENSACOLA FL, Debit, -13.91, 1
+20231210, Debit Card Purchase - TACOS EL FLUFFY PENSACOLA FL, Debit, 271.12, 0
+20231211, Withdrawal from CAPITAL ONE MOBILE PMT, Debit, -2.99, 1
+20231211, Withdrawal from CAPITAL ONE MOBILE PMT, Debit, 268.13, 0
+20231213, Deposit from HARVARD UNIVERSI DIR DEP, Credit, 3051.98, 1
+20231213, Deposit from HARVARD UNIVERSI DIR DEP, Credit, 3320.11, 0
+20231218, Deposit from NFCU ACH P2P SASHA R BROWNSB, Credit, 2060.0, 1
+20231218, Deposit from NFCU ACH P2P SASHA R BROWNSB, Credit, 5785.69, 0
+20231218, Deposit from GUSTO PAYROLL CON 097263, Credit, 346.5, 1
+20231218, Deposit from GUSTO PAYROLL CON 097263, Credit, 3725.69, 0
+20231218, Deposit from ROBINHOOD Funds, Credit, 59.08, 1
+20231218, Deposit from ROBINHOOD Funds, Credit, 3379.19, 0
+20231219, Withdrawal from AMEX EPAYMENT ACH PMT, Debit, -2819.67, 1
+20231219, Withdrawal from AMEX EPAYMENT ACH PMT, Debit, 2966.02, 0
+20231220, Deposit from eBay ComQDMXOIW4 PAYMENTS, Credit, 23.05, 1
+20231220, Deposit from eBay ComQDMXOIW4 PAYMENTS, Credit, 2989.07, 0
+20231225, ATM Withdrawal - FIVE COUNTY CU CBDC020 PORTLAND  ME, Debit, -103.0, 1
+20231225, ATM Withdrawal - FIVE COUNTY CU CBDC020 PORTLAND  ME, Debit, 2886.07, 0
+20231226, Zelle money sent to MARK SHIFFER, Debit, -1025.0, 1
+20231226, Zelle money sent to MARK SHIFFER, Debit, 2612.02, 0
+20231226, Deposit from VENMO CASHOUT, Credit, 500.0, 1
+20231226, Deposit from VENMO CASHOUT, Credit, 3637.02, 0
+20231226, Deposit from VENMO CASHOUT, Credit, 250.0, 1
+20231226, Deposit from VENMO CASHOUT, Credit, 3137.02, 0
+20231226, Deposit from eBay ComVENL8547 PAYMENTS, Credit, 0.95, 1
+20231226, Deposit from eBay ComVENL8547 PAYMENTS, Credit, 2887.02, 0
+20231227, Deposit from VENMO CASHOUT, Credit, 500.88, 1
+20231227, Deposit from VENMO CASHOUT, Credit, 3112.9, 0
+20231229, Deposit from NFCU ACH P2P SASHA R BROWNSB, Credit, 1751.0, 1
+20231229, Deposit from NFCU ACH P2P SASHA R BROWNSB, Credit, 4863.9, 0
+20231231, Monthly Interest Paid, Credit, 0.2, 1
+20231231, Monthly Interest Paid, Credit, 4864.1, 0
+20240102, Withdrawal from CAPITAL ONE CRCARDPMT, Debit, -1603.4, 1
+20240102, Withdrawal from CAPITAL ONE CRCARDPMT, Debit, 3260.7, 0
+20240103, Withdrawal from VENMO PAYMENT, Debit, -110.0, 1
+20240103, Withdrawal from VENMO PAYMENT, Debit, 3301.89, 0
+20240103, Deposit from VENMO CASHOUT, Credit, 151.19, 1
+20240103, Deposit from VENMO CASHOUT, Credit, 3411.89, 0
+20240105, Deposit from 360 Performance Savings XXXXXXX1541, Credit, 600.0, 1
+20240105, Deposit from 360 Performance Savings XXXXXXX1541, Credit, 3632.39, 0
+20240105, Withdrawal from VENMO PAYMENT, Debit, -240.25, 1
+20240105, Withdrawal from VENMO PAYMENT, Debit, 3032.39, 0
+20240105, Withdrawal from VENMO PAYMENT, Debit, -29.25, 1
+20240105, Withdrawal from VENMO PAYMENT, Debit, 3272.64, 0
+20240108, Withdrawal from VENMO PAYMENT, Debit, -70.0, 1
+20240108, Withdrawal from VENMO PAYMENT, Debit, 833.46, 0
+20240108, Withdrawal from USAA P&C AUTOPAY, Debit, -53.48, 1
+20240108, Withdrawal from USAA P&C AUTOPAY, Debit, 903.46, 0
+20240108, Withdrawal from AMEX EPAYMENT ACH PMT, Debit, -2675.45, 1
+20240108, Withdrawal from AMEX EPAYMENT ACH PMT, Debit, 956.94, 0
+20240110, Deposit from HARVARD UNIVERSI DIR DEP, Credit, 2669.1, 1
+20240110, Deposit from HARVARD UNIVERSI DIR DEP, Credit, 3375.56, 0
+20240110, Withdrawal from Catch Inc Everlane, Debit, -127.0, 1
+20240110, Withdrawal from Catch Inc Everlane, Debit, 706.46, 0
+20240112, Deposit from NFCU ACH P2P SASHA R BROWNSB, Credit, 2143.0, 1
+20240112, Deposit from NFCU ACH P2P SASHA R BROWNSB, Credit, 5518.56, 0
+20240113, Debit Card Purchase - BREEZE CINEMA 8 GULF BREEZE FL, Debit, -8.25, 1
+20240113, Debit Card Purchase - BREEZE CINEMA 8 GULF BREEZE FL, Debit, 5510.31, 0
+20240116, Withdrawal from AMEX EPAYMENT ACH PMT, Debit, -1879.66, 1
+20240116, Withdrawal from AMEX EPAYMENT ACH PMT, Debit, 3705.86, 0
+20240116, Withdrawal from VENMO PAYMENT, Debit, -10.0, 1
+20240116, Withdrawal from VENMO PAYMENT, Debit, 5585.52, 0
+20240116, Deposit from VENMO CASHOUT, Credit, 226.36, 1
+20240116, Deposit from VENMO CASHOUT, Credit, 5595.52, 0
+20240116, Deposit from eBay ComN4KOGRPC PAYMENTS, Credit, 8.85, 1
+20240116, Deposit from eBay ComN4KOGRPC PAYMENTS, Credit, 5369.16, 0
+20240116, Debit Card Purchase - JAG DEFENSE VIRGINIA BEA VA, Debit, -150.0, 1
+20240116, Debit Card Purchase - JAG DEFENSE VIRGINIA BEA VA, Debit, 5360.31, 0
+20240117, ATM Withdrawal - CIRCLE K #27-K02 CK028224 PENSACOLA  FL, Debit, -100.0, 1
+20240117, ATM Withdrawal - CIRCLE K #27-K02 CK028224 PENSACOLA  FL, Debit, 3605.86, 0
+20240119, Zelle money sent to UTKARSH AGRAWAL, Debit, -69.85, 1
+20240119, Zelle money sent to UTKARSH AGRAWAL, Debit, 3536.01, 0
+20240122, Debit Card Purchase - EVERMAN COOP GR PENSACOLA  FL US, Debit, -58.99, 1
+20240122, Debit Card Purchase - EVERMAN COOP GR PENSACOLA  FL US, Debit, 3477.02, 0
+20240123, Withdrawal from VENMO PAYMENT, Debit, -200.0, 1
+20240123, Withdrawal from VENMO PAYMENT, Debit, 3277.02, 0
+20240124, Withdrawal from STUDENT TUITION ECHECKPAY, Debit, -150.0, 1
+20240124, Withdrawal from STUDENT TUITION ECHECKPAY, Debit, 3127.02, 0
+20240126, Withdrawal from CHASE CREDIT CRD EPAY, Debit, -66.63, 1
+20240126, Withdrawal from CHASE CREDIT CRD EPAY, Debit, 3130.39, 0
+20240126, Deposit from 360 Performance Savings XXXXXXX1541, Credit, 70.0, 1
+20240126, Deposit from 360 Performance Savings XXXXXXX1541, Credit, 3197.02, 0
+20240128, Debit Card Purchase - EVERMAN COOP GR PENSACOLA  FL US, Debit, -63.2, 1
+20240128, Debit Card Purchase - EVERMAN COOP GR PENSACOLA  FL US, Debit, 3067.19, 0
+20240129, Deposit from ROBINHOOD CREDITS, Credit, 254.38, 1
+20240129, Deposit from ROBINHOOD CREDITS, Credit, 3321.57, 0
+20240130, Zelle money sent to MARK SHIFFER, Debit, -1025.0, 1
+20240130, Zelle money sent to MARK SHIFFER, Debit, 2296.57, 0
+20240131, Monthly Interest Paid, Credit, 0.3, 1
+20240131, Monthly Interest Paid, Credit, 2670.71, 0
+20240131, Deposit from GUSTO PAYROLL CON 112586, Credit, 45.0, 1
+20240131, Deposit from GUSTO PAYROLL CON 112586, Credit, 2670.41, 0
+20240131, Deposit from ROBINHOOD CREDITS, Credit, 328.84, 1
+20240131, Deposit from ROBINHOOD CREDITS, Credit, 2625.41, 0
+20240201, Withdrawal from CAPITAL ONE CRCARDPMT, Debit, -2703.88, 1
+20240201, Withdrawal from CAPITAL ONE CRCARDPMT, Debit, 7693.1, 0
+20240201, Withdrawal from AMEX EPAYMENT ACH PMT, Debit, -1669.19, 1
+20240201, Withdrawal from AMEX EPAYMENT ACH PMT, Debit, 10396.98, 0
+20240201, Withdrawal from VENMO PAYMENT, Debit, -21.0, 1
+20240201, Withdrawal from VENMO PAYMENT, Debit, 12066.17, 0
+20240201, Deposit from GOOGLE LLC PAYROLL, Credit, 3150.41, 1
+20240201, Deposit from GOOGLE LLC PAYROLL, Credit, 12087.17, 0
+20240201, Deposit from GOOGLE LLC PAYROLL, Credit, 4584.58, 1
+20240201, Deposit from GOOGLE LLC PAYROLL, Credit, 8936.76, 0
+20240201, Withdrawal from VENMO PAYMENT, Debit, -177.53, 1
+20240201, Withdrawal from VENMO PAYMENT, Debit, 4352.18, 0
+20240201, Deposit from NFCU ACH P2P SASHA R BROWNSB, Credit, 1822.0, 1
+20240201, Deposit from NFCU ACH P2P SASHA R BROWNSB, Credit, 4529.71, 0
+20240201, Deposit from VENMO CASHOUT, Credit, 37.0, 1
+20240201, Deposit from VENMO CASHOUT, Credit, 2707.71, 0
+20240202, Deposit from SIMONS FOUNDATIO DIRECT-PAY, Credit, 424.03, 1
+20240202, Deposit from SIMONS FOUNDATIO DIRECT-PAY, Credit, 8117.13, 0
+20240205, Withdrawal from VENMO PAYMENT, Debit, -7.33, 1
+20240205, Withdrawal from VENMO PAYMENT, Debit, 8386.13, 0
+20240205, Deposit from eBay ComMP4IYYPA PAYMENTS, Credit, 276.33, 1
+20240205, Deposit from eBay ComMP4IYYPA PAYMENTS, Credit, 8393.46, 0
+20240206, Withdrawal from USAA P&C AUTOPAY, Debit, -64.91, 1
+20240206, Withdrawal from USAA P&C AUTOPAY, Debit, 8227.78, 0
+20240206, Withdrawal from VENMO PAYMENT, Debit, -93.44, 1
+20240206, Withdrawal from VENMO PAYMENT, Debit, 8292.69, 0
+20240207, Withdrawal from VENMO PAYMENT, Debit, -70.0, 1
+20240207, Withdrawal from VENMO PAYMENT, Debit, 8157.27, 0
+20240207, Withdrawal from CHASE CREDIT CRD EPAY, Debit, -5.2, 1
+20240207, Withdrawal from CHASE CREDIT CRD EPAY, Debit, 8227.27, 0
+20240207, Deposit from eBay ComF5LJLH9U PAYMENTS, Credit, 4.69, 1
+20240207, Deposit from eBay ComF5LJLH9U PAYMENTS, Credit, 8232.47, 0
+20240210, Withdrawal to 360 Performance Savings XXXXXXX1541, Debit, -3000.0, 1
+20240210, Withdrawal to 360 Performance Savings XXXXXXX1541, Debit, 4157.27, 0
+20240210, Zelle money sent to ROSY GAS  LLC, Debit, -2500.0, 1
+20240210, Zelle money sent to ROSY GAS  LLC, Debit, 7157.27, 0
+20240210, Deposit from 360 Performance Savings XXXXXXX1541, Credit, 1500.0, 1
+20240210, Deposit from 360 Performance Savings XXXXXXX1541, Credit, 9657.27, 0
+20240211, Zelle money sent to ROSY GAS  LLC, Debit, -750.0, 1
+20240211, Zelle money sent to ROSY GAS  LLC, Debit, 3407.27, 0
+20240212, Withdrawal from VENMO PAYMENT, Debit, -225.0, 1
+20240212, Withdrawal from VENMO PAYMENT, Debit, 3190.99, 0
+20240212, Deposit from eBay ComNY47VNS2 PAYMENTS, Credit, 8.72, 1
+20240212, Deposit from eBay ComNY47VNS2 PAYMENTS, Credit, 3415.99, 0
+20240215, Withdrawal to 360 Performance Savings XXXXXXX1541, Debit, -4000.0, 1
+20240215, Withdrawal to 360 Performance Savings XXXXXXX1541, Debit, 2720.17, 0
+20240215, Deposit from VENMO CASHOUT, Credit, 66.69, 1
+20240215, Deposit from VENMO CASHOUT, Credit, 6720.17, 0
+20240215, Deposit from GOOGLE LLC PAYROLL, Credit, 3462.49, 1
+20240215, Deposit from GOOGLE LLC PAYROLL, Credit, 6653.48, 0
+20240216, Withdrawal from VENMO PAYMENT, Debit, -10.0, 1
+20240216, Withdrawal from VENMO PAYMENT, Debit, 4911.22, 0
+20240216, Deposit from NFCU ACH P2P SASHA R BROWNSB, Credit, 2153.0, 1
+20240216, Deposit from NFCU ACH P2P SASHA R BROWNSB, Credit, 4921.22, 0
+20240216, Deposit from eBay ComRDFJRM7A PAYMENTS, Credit, 48.05, 1
+20240216, Deposit from eBay ComRDFJRM7A PAYMENTS, Credit, 2768.22, 0
+20240220, Withdrawal from AMEX EPAYMENT ACH PMT, Debit, -2044.01, 1
+20240220, Withdrawal from AMEX EPAYMENT ACH PMT, Debit, 2704.2, 0
+20240220, Withdrawal from VENMO PAYMENT, Debit, -110.0, 1
+20240220, Withdrawal from VENMO PAYMENT, Debit, 4748.21, 0
+20240220, Withdrawal from USAA P&C PAYMENT, Debit, -92.38, 1
+20240220, Withdrawal from USAA P&C PAYMENT, Debit, 4858.21, 0
+20240220, Deposit from eBay ComXIEMMWZA PAYMENTS, Credit, 39.37, 1
+20240220, Deposit from eBay ComXIEMMWZA PAYMENTS, Credit, 4950.59, 0
+20240221, Check #451 Cashed, Debit, -2669.1, 1
+20240221, Check #451 Cashed, Debit, 672.43, 0
+20240221, Deposit from 360 Performance Savings XXXXXXX1541, Credit, 3000.0, 1
+20240221, Deposit from 360 Performance Savings XXXXXXX1541, Credit, 3341.53, 0
+20240221, Zelle money sent to ROSY GAS  LLC, Debit, -2500.0, 1
+20240221, Zelle money sent to ROSY GAS  LLC, Debit, 341.53, 0
+20240221, Deposit from 360 Performance Savings XXXXXXX1541, Credit, 1000.0, 1
+20240221, Deposit from 360 Performance Savings XXXXXXX1541, Credit, 2841.53, 0
+20240221, ATM Withdrawal - CVS STORE #1-V08 VV089151 CAMBRIDGE  MA, Debit, -300.0, 1
+20240221, ATM Withdrawal - CVS STORE #1-V08 VV089151 CAMBRIDGE  MA, Debit, 1841.53, 0
+20240221, ATM Withdrawal - CVS STORE #1-V08 VV089151 CAMBRIDGE  MA, Debit, -300.0, 1
+20240221, ATM Withdrawal - CVS STORE #1-V08 VV089151 CAMBRIDGE  MA, Debit, 2141.53, 0
+20240221, ATM Withdrawal - CVS STORE #1-V08 VV089151 CAMBRIDGE  MA, Debit, -300.0, 1
+20240221, ATM Withdrawal - CVS STORE #1-V08 VV089151 CAMBRIDGE  MA, Debit, 2441.53, 0
+20240221, Deposit from eBay ComNQNNGHDE PAYMENTS, Credit, 37.33, 1
+20240221, Deposit from eBay ComNQNNGHDE PAYMENTS, Credit, 2741.53, 0
+20240222, Check #451 Cashed Reversal, Debit, 2669.1, 1
+20240222, Check #451 Cashed Reversal, Debit, 5291.53, 0
+20240222, Withdrawal from VENMO PAYMENT, Debit, -50.0, 1
+20240222, Withdrawal from VENMO PAYMENT, Debit, 2622.43, 0
+20240222, Deposit from 360 Performance Savings XXXXXXX1541, Credit, 2000.0, 1
+20240222, Deposit from 360 Performance Savings XXXXXXX1541, Credit, 2672.43, 0
+20240223, Withdrawal from AMEX EPAYMENT ACH PMT, Debit, -56.98, 1
+20240223, Withdrawal from AMEX EPAYMENT ACH PMT, Debit, 3478.05, 0
+20240223, Withdrawal from VENMO PAYMENT, Debit, -30.0, 1
+20240223, Withdrawal from VENMO PAYMENT, Debit, 3535.03, 0
+20240223, Deposit from GUSTO PAYROLL CON 716528, Credit, 148.5, 1
+20240223, Deposit from GUSTO PAYROLL CON 716528, Credit, 3565.03, 0
+20240223, Withdrawal from Roofstock Inc Rent Pay, Debit, -1875.0, 1
+20240223, Withdrawal from Roofstock Inc Rent Pay, Debit, 3416.53, 0
+20240227, Deposit from eBay ComTOKWWFKM PAYMENTS, Credit, 2.35, 1
+20240227, Deposit from eBay ComTOKWWFKM PAYMENTS, Credit, 3480.4, 0
+20240228, Zelle money sent to MARK SHIFFER, Debit, -1025.0, 1
+20240228, Zelle money sent to MARK SHIFFER, Debit, 2455.4, 0
+20240229, Monthly Interest Paid, Credit, 0.41, 1
+20240229, Monthly Interest Paid, Credit, 5668.56, 0
+20240229, Deposit from GOOGLE LLC PAYROLL, Credit, 3462.49, 1
+20240229, Deposit from GOOGLE LLC PAYROLL, Credit, 5668.15, 0
+20240229, Withdrawal from VENMO PAYMENT, Debit, -100.16, 1
+20240229, Withdrawal from VENMO PAYMENT, Debit, 2205.66, 0
+20240229, Withdrawal from ROBINHOOD Funds, Debit, -100.0, 1
+20240229, Withdrawal from ROBINHOOD Funds, Debit, 2305.82, 0
+20240229, Withdrawal from VENMO PAYMENT, Debit, -47.0, 1
+20240229, Withdrawal from VENMO PAYMENT, Debit, 2405.82, 0
+20240229, Withdrawal from CHASE CREDIT CRD EPAY, Debit, -2.58, 1
+20240229, Withdrawal from CHASE CREDIT CRD EPAY, Debit, 2452.82, 0
+20240301, Withdrawal from CAPITAL ONE CRCARDPMT, Debit, -507.17, 1
+20240301, Withdrawal from CAPITAL ONE CRCARDPMT, Debit, 7771.39, 0
+20240301, Deposit from NFCU ACH P2P SASHA R BROWNSB, Credit, 2610.0, 1
+20240301, Deposit from NFCU ACH P2P SASHA R BROWNSB, Credit, 8278.56, 0
+20240304, Deposit from 360 Performance Savings XXXXXXX1541, Credit, 4000.0, 1
+20240304, Deposit from 360 Performance Savings XXXXXXX1541, Credit, 7668.67, 0
+20240304, Withdrawal from AMEX EPAYMENT ACH PMT, Debit, -3901.09, 1
+20240304, Withdrawal from AMEX EPAYMENT ACH PMT, Debit, 3668.67, 0
+20240304, Withdrawal from VENMO PAYMENT, Debit, -169.11, 1
+20240304, Withdrawal from VENMO PAYMENT, Debit, 7569.76, 0
+20240304, Withdrawal from ROBINHOOD Funds, Debit, -50.0, 1
+20240304, Withdrawal from ROBINHOOD Funds, Debit, 7738.87, 0
+20240304, Withdrawal from VENMO PAYMENT, Debit, -17.0, 1
+20240304, Withdrawal from VENMO PAYMENT, Debit, 7788.87, 0
+20240304, Withdrawal from VENMO PAYMENT, Debit, -17.0, 1
+20240304, Withdrawal from VENMO PAYMENT, Debit, 7805.87, 0
+20240304, Deposit from eBay Com0Z0FDLPS PAYMENTS, Credit, 29.12, 1
+20240304, Deposit from eBay Com0Z0FDLPS PAYMENTS, Credit, 7822.87, 0
+20240304, Deposit from VENMO CASHOUT, Credit, 20.0, 1
+20240304, Deposit from VENMO CASHOUT, Credit, 7793.75, 0
+20240304, Deposit from eBay ComI3JN1KSU PAYMENTS, Credit, 2.36, 1
+20240304, Deposit from eBay ComI3JN1KSU PAYMENTS, Credit, 7773.75, 0
+20240305, Withdrawal from CHASE CREDIT CRD EPAY, Debit, -5214.85, 1
+20240305, Withdrawal from CHASE CREDIT CRD EPAY, Debit, 2905.15, 0
+20240305, Withdrawal from CAPITAL ONE MOBILE PMT, Debit, -348.67, 1
+20240305, Withdrawal from CAPITAL ONE MOBILE PMT, Debit, 8120.0, 0
+20240305, Deposit from 360 Performance Savings XXXXXXX1541, Credit, 800.0, 1
+20240305, Deposit from 360 Performance Savings XXXXXXX1541, Credit, 8468.67, 0
+20240306, Withdrawal from USAA P&C AUTOPAY, Debit, -64.91, 1
+20240306, Withdrawal from USAA P&C AUTOPAY, Debit, 2832.25, 0
+20240306, Withdrawal from AMEX EPAYMENT ACH PMT, Debit, -7.99, 1
+20240306, Withdrawal from AMEX EPAYMENT ACH PMT, Debit, 2897.16, 0
+20240307, Debit Card Purchase - PMT*FL TAG/LICEN 213 P PENSACOLA  FL US, Debit, -46.55, 1
+20240307, Debit Card Purchase - PMT*FL TAG/LICEN 213 P PENSACOLA  FL US, Debit, 3180.53, 0
+20240307, Deposit from ROBINHOOD Funds, Credit, 100.0, 1
+20240307, Deposit from ROBINHOOD Funds, Credit, 3227.08, 0
+20240307, Deposit from 1001 - Google LL PAYMENTS, Credit, 294.83, 1
+20240307, Deposit from 1001 - Google LL PAYMENTS, Credit, 3127.08, 0
+20240308, Withdrawal from VENMO PAYMENT, Debit, -86.0, 1
+20240308, Withdrawal from VENMO PAYMENT, Debit, 3056.33, 0
+20240308, Withdrawal from AMEX EPAYMENT ACH PMT, Debit, -38.2, 1
+20240308, Withdrawal from AMEX EPAYMENT ACH PMT, Debit, 3142.33, 0
+20240312, Withdrawal from VANGUARD BUY INVESTMENT, Debit, -1.0, 1
+20240312, Withdrawal from VANGUARD BUY INVESTMENT, Debit, 3054.33, 0
+20240312, Withdrawal from VANGUARD BUY INVESTMENT, Debit, -1.0, 1
+20240312, Withdrawal from VANGUARD BUY INVESTMENT, Debit, 3055.33, 0
+20240312, Withdrawal from VANGUARD ACCTVERIFY, Debit, -0.88, 1
+20240312, Withdrawal from VANGUARD ACCTVERIFY, Debit, 3056.33, 0
+20240312, Deposit from VANGUARD ACCTVERIFY, Credit, 0.69, 1
+20240312, Deposit from VANGUARD ACCTVERIFY, Credit, 3057.21, 0
+20240312, Deposit from VANGUARD ACCTVERIFY, Credit, 0.19, 1
+20240312, Deposit from VANGUARD ACCTVERIFY, Credit, 3056.52, 0
+20240313, Withdrawal from AMEX EPAYMENT ACH PMT, Debit, -48.34, 1
+20240313, Withdrawal from AMEX EPAYMENT ACH PMT, Debit, 3005.99, 0
+20240314, Deposit from GOOGLE LLC PAYROLL, Credit, 3462.5, 1
+20240314, Deposit from GOOGLE LLC PAYROLL, Credit, 6468.49, 0
+20240315, Withdrawal to 360 Performance Savings XXXXXXX1541, Debit, -6000.0, 1
+20240315, Withdrawal to 360 Performance Savings XXXXXXX1541, Debit, 2628.49, 0
+20240315, Deposit from NFCU ACH P2P SASHA R BROWNSB, Credit, 2160.0, 1
+20240315, Deposit from NFCU ACH P2P SASHA R BROWNSB, Credit, 8628.49, 0
+20240317, Deposit from 360 Performance Savings XXXXXXX1541, Credit, 200.0, 1
+20240317, Deposit from 360 Performance Savings XXXXXXX1541, Credit, 2828.49, 0
+20240318, Check #452 Cashed, Debit, -2669.1, 1
+20240318, Check #452 Cashed, Debit, 183.79, 0
+20240318, Withdrawal from VENMO PAYMENT, Debit, -15.0, 1
+20240318, Withdrawal from VENMO PAYMENT, Debit, 2852.89, 0
+20240318, Deposit from eBay ComDUNQWJF0 PAYMENTS, Credit, 39.4, 1
+20240318, Deposit from eBay ComDUNQWJF0 PAYMENTS, Credit, 2867.89, 0
+20240319, Deposit from eBay Com0ETBRWSY PAYMENTS, Credit, 13.67, 1
+20240319, Deposit from eBay Com0ETBRWSY PAYMENTS, Credit, 197.46, 0
+20240320, Withdrawal from AMEX EPAYMENT ACH PMT, Debit, -5.04, 1
+20240320, Withdrawal from AMEX EPAYMENT ACH PMT, Debit, 192.42, 0
+20240322, Deposit from 360 Performance Savings XXXXXXX1541, Credit, 1000.0, 1
+20240322, Deposit from 360 Performance Savings XXXXXXX1541, Credit, 1192.42, 0
