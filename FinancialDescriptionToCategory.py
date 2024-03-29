@@ -4,7 +4,7 @@ import cantrips as can
 class DescriptionToFinanceCategoryClass:
 
     def getCategoriesOfDescriptions(self, descriptions, update_descriptions = 1):
-
+        return 0
 
     def readInDescriptionsToAbbreviationsFile(self, file_path, delimiter = ' : '):
         data = can.readInColumnsToList(file_path, n_ignore = 1, delimiter = delimiter)
